@@ -6,6 +6,7 @@ import { ThemeProvider } from '@/components/theme-provider'
 import { Toaster } from 'react-hot-toast'
 import { Analytics } from '@vercel/analytics/react'
 import { SpeedInsights } from '@vercel/speed-insights/next'
+import { MobileMenu } from '@/components/ui/mobile-menu'
 
 // Premium Typography setup
 const inter = Inter({ subsets: ['latin'], variable: '--font-inter' })
@@ -45,15 +46,21 @@ export default function RootLayout({
           {/* Generic Navigation Bar */}
           <header className="sticky top-0 z-50 w-full border-b border-slate-200 dark:border-slate-800 bg-white dark:bg-slate-900 shadow-sm">
             <div className="container mx-auto px-4 h-16 flex items-center justify-between">
+
               <div className="flex items-center gap-2 font-bold text-xl tracking-tight text-slate-800 dark:text-slate-100">
                 <LayoutDashboard className="w-6 h-6 text-blue-600 dark:text-blue-400" />
                 <span>[App Name]</span>
               </div>
-              <nav className="flex items-center gap-4">
-                <div className="w-8 h-8 rounded-full bg-slate-100 dark:bg-slate-800 border border-slate-200 dark:border-slate-700 flex items-center justify-center text-slate-600 dark:text-slate-300">
-                  <User className="w-4 h-4" />
-                </div>
-              </nav>
+
+              <div className="flex items-center gap-4">
+                <nav className="hidden md:flex items-center gap-4">
+                  <div className="w-8 h-8 rounded-full bg-slate-100 dark:bg-slate-800 border border-slate-200 dark:border-slate-700 flex items-center justify-center text-slate-600 dark:text-slate-300">
+                    <User className="w-4 h-4" />
+                  </div>
+                </nav>
+                <MobileMenu />
+              </div>
+
             </div>
           </header>
 
@@ -69,11 +76,25 @@ export default function RootLayout({
             </div>
           </footer>
 
-          <Toaster position="top-right" />
+          <Toaster
+            position="top-right"
+            toastOptions={{
+              className: '',
+              style: {
+                background: 'rgba(255, 255, 255, 0.9)',
+                backdropFilter: 'blur(10px)',
+                color: '#0f172a',
+                border: '1px solid rgba(226, 232, 240, 0.8)',
+                boxShadow: '0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05)',
+              },
+              success: { iconTheme: { primary: '#10b981', secondary: '#fff' } },
+              error: { iconTheme: { primary: '#ef4444', secondary: '#fff' } },
+            }}
+          />
           <Analytics />
           <SpeedInsights />
         </ThemeProvider>
       </body>
-    </html>
+    </html >
   )
 }
