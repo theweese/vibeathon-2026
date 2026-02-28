@@ -13,6 +13,19 @@ const inter = Inter({ subsets: ['latin'], variable: '--font-inter' })
 export const metadata: Metadata = {
   title: 'Vibeathon Project',
   description: 'Built at St. Joseph Vibeathon',
+  openGraph: {
+    title: 'Vibeathon 2026 Solution',
+    description: 'An AI-powered solution built in 48 hours for the Codefi Vibeathon.',
+    url: 'https://github.com/theweese/vibeathon-2026',
+    siteName: 'Vibeathon App',
+    locale: 'en_US',
+    type: 'website',
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Vibeathon 2026 Solution',
+    description: 'An AI-powered solution built in 48 hours for the Codefi Vibeathon.',
+  },
 }
 
 export default function RootLayout({
