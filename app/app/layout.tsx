@@ -1,6 +1,10 @@
 import type { Metadata } from 'next'
+import { Inter } from 'next/font/google'
 import './globals.css'
 import { LayoutDashboard, User } from 'lucide-react'
+
+// Premium Typography setup
+const inter = Inter({ subsets: ['latin'], variable: '--font-inter' })
 
 export const metadata: Metadata = {
   title: 'Vibeathon Project',
@@ -14,7 +18,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className="antialiased min-h-screen bg-slate-50 text-slate-900 flex flex-col">
+      <body className={`${inter.variable} font-sans antialiased min-h-screen bg-slate-50 text-slate-900 flex flex-col`}>
         {/* Generic Navigation Bar */}
         <header className="sticky top-0 z-50 w-full border-b border-slate-200 bg-white shadow-sm">
           <div className="container mx-auto px-4 h-16 flex items-center justify-between">
