@@ -1,0 +1,5932 @@
+[
+  {
+    "id": "ml_0",
+    "address": "1153 St Joseph Ave, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://stjosephmemorylane.com/sjmlheader-12.jpg",
+      "imageUrl": "/data/images/img_0.jpg",
+      "title": "Asset 0",
+      "caption": "Free website hit counter",
+      "estimatedYear": 1960
+    },
+    "civicData": {
+      "zoning": "C-2 Downtown Commercial",
+      "floodZone": "Zone X (Minimal Risk)",
+      "historicRegistry": "Not Listed",
+      "lotSizeSqFt": 4486,
+      "lastAssessmentValue": 1000141
+    },
+    "permits": [
+      {
+        "date": "2013-02-19",
+        "type": "Interior Demolition",
+        "status": "Pending"
+      }
+    ]
+  },
+  {
+    "id": "ml_1",
+    "address": "744 Faraon St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://stjosephmemorylane.com/RIP.jpg",
+      "imageUrl": "/data/images/img_1.jpg",
+      "title": "Asset 1",
+      "caption": "DeceasedSt JosephHigh SchoolClassmates",
+      "estimatedYear": 1920
+    },
+    "civicData": {
+      "zoning": "M-1 Light Industrial",
+      "floodZone": "Zone AE (High Risk)",
+      "historicRegistry": "Not Listed",
+      "lotSizeSqFt": 4144,
+      "lastAssessmentValue": 465509
+    },
+    "permits": [
+      {
+        "date": "2023-12-10",
+        "type": "Facade Restoration",
+        "status": "Approved"
+      },
+      {
+        "date": "2021-03-28",
+        "type": "Facade Restoration",
+        "status": "Pending"
+      },
+      {
+        "date": "2012-08-02",
+        "type": "HVAC Installation",
+        "status": "Approved"
+      },
+      {
+        "date": "2007-12-13",
+        "type": "Interior Demolition",
+        "status": "Closed"
+      }
+    ]
+  },
+  {
+    "id": "ml_2",
+    "address": "1274 Syllamalash St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://stjosephmemorylane.com/dta2x.jpg",
+      "imageUrl": "/data/images/img_2.jpg",
+      "title": "Asset 2",
+      "caption": "Aerial Photos& Maps OfDowntown & Other Areas",
+      "estimatedYear": 1895
+    },
+    "civicData": {
+      "zoning": "C-3 Commercial District",
+      "floodZone": "Zone X (Minimal Risk)",
+      "historicRegistry": "Eligible for Register",
+      "lotSizeSqFt": 5995,
+      "lastAssessmentValue": 1274188
+    },
+    "permits": []
+  },
+  {
+    "id": "ml_3",
+    "address": "992 Felix St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://stjosephmemorylane.com/poolhallx.jpg",
+      "imageUrl": "/data/images/img_3.jpg",
+      "title": "Asset 3",
+      "caption": "Photos OfUnknownBuildings& Locations",
+      "estimatedYear": 1941
+    },
+    "civicData": {
+      "zoning": "M-1 Light Industrial",
+      "floodZone": "Zone X (Minimal Risk)",
+      "historicRegistry": "Eligible for Register",
+      "lotSizeSqFt": 8570,
+      "lastAssessmentValue": 138871
+    },
+    "permits": [
+      {
+        "date": "2022-09-25",
+        "type": "Electrical Upgrade",
+        "status": "Approved"
+      },
+      {
+        "date": "2008-07-14",
+        "type": "Roof Replacement",
+        "status": "Approved"
+      },
+      {
+        "date": "2004-02-05",
+        "type": "Roof Replacement",
+        "status": "Approved"
+      }
+    ]
+  },
+  {
+    "id": "ml_4",
+    "address": "1132 King Hill Ave, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://stjosephmemorylane.com/steam2x.jpg",
+      "imageUrl": "/data/images/img_4.jpg",
+      "title": "Asset 4",
+      "caption": "St Joseph'sHistoricPast & History",
+      "estimatedYear": 1955
+    },
+    "civicData": {
+      "zoning": "M-1 Light Industrial",
+      "floodZone": "Zone AH (High Risk)",
+      "historicRegistry": "Not Listed",
+      "lotSizeSqFt": 8241,
+      "lastAssessmentValue": 1223969
+    },
+    "permits": []
+  },
+  {
+    "id": "ml_5",
+    "address": "1437 Edmond St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://stjosephmemorylane.com/1859main.jpg",
+      "imageUrl": "/data/images/img_5.jpg",
+      "title": "Asset 5",
+      "caption": "MainStreet",
+      "estimatedYear": 1897
+    },
+    "civicData": {
+      "zoning": "C-3 Commercial District",
+      "floodZone": "Zone AH (High Risk)",
+      "historicRegistry": "Local Landmark",
+      "lotSizeSqFt": 10907,
+      "lastAssessmentValue": 318236
+    },
+    "permits": [
+      {
+        "date": "2005-01-01",
+        "type": "Plumbing Repair",
+        "status": "Approved"
+      },
+      {
+        "date": "1999-06-15",
+        "type": "Electrical Upgrade",
+        "status": "Approved"
+      }
+    ]
+  },
+  {
+    "id": "ml_6",
+    "address": "407 Francis St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://stjosephmemorylane.com/upaperx.jpg",
+      "imageUrl": "/data/images/img_6.jpg",
+      "title": "Asset 6",
+      "caption": "1stStreet",
+      "estimatedYear": 1903
+    },
+    "civicData": {
+      "zoning": "C-2 Downtown Commercial",
+      "floodZone": "Zone AE (High Risk)",
+      "historicRegistry": "National Register",
+      "lotSizeSqFt": 13652,
+      "lastAssessmentValue": 786813
+    },
+    "permits": [
+      {
+        "date": "2023-10-04",
+        "type": "Electrical Upgrade",
+        "status": "Approved"
+      },
+      {
+        "date": "2018-07-22",
+        "type": "HVAC Installation",
+        "status": "Approved"
+      }
+    ]
+  },
+  {
+    "id": "ml_7",
+    "address": "977 King Hill Ave, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://stjosephmemorylane.com/pox.jpg",
+      "imageUrl": "/data/images/img_7.jpg",
+      "title": "Asset 7",
+      "caption": "2ndStreet",
+      "estimatedYear": 1946
+    },
+    "civicData": {
+      "zoning": "C-2 Downtown Commercial",
+      "floodZone": "Zone X (Minimal Risk)",
+      "historicRegistry": "Local Landmark",
+      "lotSizeSqFt": 9448,
+      "lastAssessmentValue": 56633
+    },
+    "permits": [
+      {
+        "date": "2025-02-23",
+        "type": "Roof Replacement",
+        "status": "Closed"
+      },
+      {
+        "date": "2021-10-08",
+        "type": "Electrical Upgrade",
+        "status": "Approved"
+      },
+      {
+        "date": "1995-07-09",
+        "type": "Roof Replacement",
+        "status": "Approved"
+      }
+    ]
+  },
+  {
+    "id": "ml_8",
+    "address": "1187 Felix St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://stjosephmemorylane.com/224n3rdx.jpg",
+      "imageUrl": "/data/images/img_8.jpg",
+      "title": "Asset 8",
+      "caption": "3rdStreet",
+      "estimatedYear": 1954
+    },
+    "civicData": {
+      "zoning": "R-1 Single Family",
+      "floodZone": "Zone X (Minimal Risk)",
+      "historicRegistry": "Local Landmark",
+      "lotSizeSqFt": 12765,
+      "lastAssessmentValue": 1403152
+    },
+    "permits": [
+      {
+        "date": "2023-05-28",
+        "type": "Electrical Upgrade",
+        "status": "Approved"
+      },
+      {
+        "date": "1999-03-11",
+        "type": "Facade Restoration",
+        "status": "Closed"
+      },
+      {
+        "date": "1997-05-14",
+        "type": "Interior Demolition",
+        "status": "Pending"
+      }
+    ]
+  },
+  {
+    "id": "ml_9",
+    "address": "701 St Joseph Ave, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://stjosephmemorylane.com/aud28x.jpg",
+      "imageUrl": "/data/images/img_9.jpg",
+      "title": "Asset 9",
+      "caption": "4th & Felix& North 4thStreet",
+      "estimatedYear": 1890
+    },
+    "civicData": {
+      "zoning": "M-1 Light Industrial",
+      "floodZone": "Zone X (Minimal Risk)",
+      "historicRegistry": "Eligible for Register",
+      "lotSizeSqFt": 7258,
+      "lastAssessmentValue": 1051970
+    },
+    "permits": [
+      {
+        "date": "2022-01-12",
+        "type": "Interior Demolition",
+        "status": "Closed"
+      },
+      {
+        "date": "2005-01-28",
+        "type": "Roof Replacement",
+        "status": "Pending"
+      },
+      {
+        "date": "2002-05-24",
+        "type": "Interior Demolition",
+        "status": "Approved"
+      }
+    ]
+  },
+  {
+    "id": "ml_10",
+    "address": "1278 Jule St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://stjosephmemorylane.com/south4thx.jpg",
+      "imageUrl": "/data/images/img_10.jpg",
+      "title": "Asset 10",
+      "caption": "4th & Edmond& South 4thStreet",
+      "estimatedYear": 1925
+    },
+    "civicData": {
+      "zoning": "R-1 Single Family",
+      "floodZone": "Zone X (Minimal Risk)",
+      "historicRegistry": "Eligible for Register",
+      "lotSizeSqFt": 11235,
+      "lastAssessmentValue": 530690
+    },
+    "permits": [
+      {
+        "date": "2025-10-07",
+        "type": "Plumbing Repair",
+        "status": "Approved"
+      },
+      {
+        "date": "2022-07-04",
+        "type": "Electrical Upgrade",
+        "status": "Closed"
+      },
+      {
+        "date": "2007-05-18",
+        "type": "Facade Restoration",
+        "status": "Pending"
+      },
+      {
+        "date": "2004-07-15",
+        "type": "Facade Restoration",
+        "status": "Closed"
+      }
+    ]
+  },
+  {
+    "id": "ml_11",
+    "address": "933 Edmond St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://stjosephmemorylane.com/herman10x.jpg",
+      "imageUrl": "/data/images/img_11.jpg",
+      "title": "Asset 11",
+      "caption": "5th & Felix& North 5thStreet",
+      "estimatedYear": 1901
+    },
+    "civicData": {
+      "zoning": "R-1 Single Family",
+      "floodZone": "Zone AE (High Risk)",
+      "historicRegistry": "Local Landmark",
+      "lotSizeSqFt": 4018,
+      "lastAssessmentValue": 913975
+    },
+    "permits": [
+      {
+        "date": "2023-06-05",
+        "type": "Plumbing Repair",
+        "status": "Closed"
+      },
+      {
+        "date": "2008-03-28",
+        "type": "Roof Replacement",
+        "status": "Pending"
+      },
+      {
+        "date": "1997-10-17",
+        "type": "Interior Demolition",
+        "status": "Approved"
+      }
+    ]
+  },
+  {
+    "id": "ml_12",
+    "address": "694 Robidoux St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://stjosephmemorylane.com/north5thx.jpg",
+      "imageUrl": "/data/images/img_12.jpg",
+      "title": "Asset 12",
+      "caption": "5th & Edmond& South 5thStreet",
+      "estimatedYear": 1944
+    },
+    "civicData": {
+      "zoning": "R-1 Single Family",
+      "floodZone": "Zone AE (High Risk)",
+      "historicRegistry": "Local Landmark",
+      "lotSizeSqFt": 7272,
+      "lastAssessmentValue": 50978
+    },
+    "permits": [
+      {
+        "date": "2019-08-27",
+        "type": "HVAC Installation",
+        "status": "Approved"
+      },
+      {
+        "date": "2016-01-12",
+        "type": "HVAC Installation",
+        "status": "Approved"
+      },
+      {
+        "date": "2013-09-22",
+        "type": "Facade Restoration",
+        "status": "Closed"
+      },
+      {
+        "date": "2007-04-11",
+        "type": "Roof Replacement",
+        "status": "Closed"
+      }
+    ]
+  },
+  {
+    "id": "ml_13",
+    "address": "1179 Syllamalash St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://stjosephmemorylane.com/sj17-2x.jpg",
+      "imageUrl": "/data/images/img_13.jpg",
+      "title": "Asset 13",
+      "caption": "6th & Felix& North 6thStreet",
+      "estimatedYear": 1899
+    },
+    "civicData": {
+      "zoning": "R-2 Multi-Family",
+      "floodZone": "Zone AH (High Risk)",
+      "historicRegistry": "Local Landmark",
+      "lotSizeSqFt": 9903,
+      "lastAssessmentValue": 627714
+    },
+    "permits": [
+      {
+        "date": "2024-11-22",
+        "type": "Facade Restoration",
+        "status": "Approved"
+      },
+      {
+        "date": "2015-11-02",
+        "type": "Roof Replacement",
+        "status": "Approved"
+      },
+      {
+        "date": "2008-09-19",
+        "type": "Facade Restoration",
+        "status": "Pending"
+      },
+      {
+        "date": "1999-02-02",
+        "type": "HVAC Installation",
+        "status": "Approved"
+      }
+    ]
+  },
+  {
+    "id": "ml_14",
+    "address": "1494 St Joseph Ave, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://stjosephmemorylane.com/south6thx.jpg",
+      "imageUrl": "/data/images/img_14.jpg",
+      "title": "Asset 14",
+      "caption": "6th & Edmond& South 6thStreet",
+      "estimatedYear": 1951
+    },
+    "civicData": {
+      "zoning": "C-2 Downtown Commercial",
+      "floodZone": "Zone AH (High Risk)",
+      "historicRegistry": "Not Listed",
+      "lotSizeSqFt": 13843,
+      "lastAssessmentValue": 1171867
+    },
+    "permits": [
+      {
+        "date": "2015-03-03",
+        "type": "Plumbing Repair",
+        "status": "Pending"
+      },
+      {
+        "date": "2012-09-09",
+        "type": "Facade Restoration",
+        "status": "Pending"
+      },
+      {
+        "date": "2005-12-04",
+        "type": "Facade Restoration",
+        "status": "Closed"
+      },
+      {
+        "date": "1995-11-25",
+        "type": "Facade Restoration",
+        "status": "Pending"
+      }
+    ]
+  },
+  {
+    "id": "ml_15",
+    "address": "331 Frederick Ave, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://stjosephmemorylane.com/north7thx.jpg",
+      "imageUrl": "/data/images/img_15.jpg",
+      "title": "Asset 15",
+      "caption": "7th & Felix& North 7thStreet",
+      "estimatedYear": 1910
+    },
+    "civicData": {
+      "zoning": "M-1 Light Industrial",
+      "floodZone": "Zone X (Minimal Risk)",
+      "historicRegistry": "National Register",
+      "lotSizeSqFt": 14468,
+      "lastAssessmentValue": 932145
+    },
+    "permits": [
+      {
+        "date": "2020-09-02",
+        "type": "HVAC Installation",
+        "status": "Approved"
+      }
+    ]
+  },
+  {
+    "id": "ml_16",
+    "address": "1015 Robidoux St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://stjosephmemorylane.com/sj21.jpg",
+      "imageUrl": "/data/images/img_16.jpg",
+      "title": "Asset 16",
+      "caption": "7th & Edmond& South 7thStreet",
+      "estimatedYear": 1916
+    },
+    "civicData": {
+      "zoning": "R-1 Single Family",
+      "floodZone": "Zone AH (High Risk)",
+      "historicRegistry": "Not Listed",
+      "lotSizeSqFt": 11182,
+      "lastAssessmentValue": 154378
+    },
+    "permits": []
+  },
+  {
+    "id": "ml_17",
+    "address": "371 Edmond St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://stjosephmemorylane.com/8thstreetx.jpg",
+      "imageUrl": "/data/images/img_17.jpg",
+      "title": "Asset 17",
+      "caption": "8th & Felix& North 8thStreet",
+      "estimatedYear": 1908
+    },
+    "civicData": {
+      "zoning": "R-2 Multi-Family",
+      "floodZone": "Zone AH (High Risk)",
+      "historicRegistry": "Local Landmark",
+      "lotSizeSqFt": 11423,
+      "lastAssessmentValue": 488215
+    },
+    "permits": []
+  },
+  {
+    "id": "ml_18",
+    "address": "1409 Francis St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://stjosephmemorylane.com/south8thx.jpg",
+      "imageUrl": "/data/images/img_18.jpg",
+      "title": "Asset 18",
+      "caption": "8th & Edmond& South 8thStreet",
+      "estimatedYear": 1960
+    },
+    "civicData": {
+      "zoning": "C-2 Downtown Commercial",
+      "floodZone": "Zone X (Minimal Risk)",
+      "historicRegistry": "Not Listed",
+      "lotSizeSqFt": 4504,
+      "lastAssessmentValue": 397938
+    },
+    "permits": [
+      {
+        "date": "2000-10-21",
+        "type": "Electrical Upgrade",
+        "status": "Pending"
+      },
+      {
+        "date": "2000-01-07",
+        "type": "Plumbing Repair",
+        "status": "Pending"
+      }
+    ]
+  },
+  {
+    "id": "ml_19",
+    "address": "1206 Syllamalash St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://stjosephmemorylane.com/9thstreetx.jpg",
+      "imageUrl": "/data/images/img_19.jpg",
+      "title": "Asset 19",
+      "caption": "9th & Felix& North 9thStreet",
+      "estimatedYear": 1900
+    },
+    "civicData": {
+      "zoning": "M-1 Light Industrial",
+      "floodZone": "Zone X (Minimal Risk)",
+      "historicRegistry": "Not Listed",
+      "lotSizeSqFt": 13729,
+      "lastAssessmentValue": 859326
+    },
+    "permits": []
+  },
+  {
+    "id": "ml_20",
+    "address": "1448 Jule St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://stjosephmemorylane.com/south9thx.jpg",
+      "imageUrl": "/data/images/img_20.jpg",
+      "title": "Asset 20",
+      "caption": "9th & Edmond& South 9thStreet",
+      "estimatedYear": 1904
+    },
+    "civicData": {
+      "zoning": "M-1 Light Industrial",
+      "floodZone": "Zone X (Minimal Risk)",
+      "historicRegistry": "National Register",
+      "lotSizeSqFt": 13361,
+      "lastAssessmentValue": 794007
+    },
+    "permits": [
+      {
+        "date": "2011-05-15",
+        "type": "Plumbing Repair",
+        "status": "Approved"
+      },
+      {
+        "date": "2004-10-07",
+        "type": "Interior Demolition",
+        "status": "Approved"
+      },
+      {
+        "date": "1995-11-08",
+        "type": "HVAC Installation",
+        "status": "Pending"
+      },
+      {
+        "date": "1995-03-24",
+        "type": "Facade Restoration",
+        "status": "Closed"
+      }
+    ]
+  },
+  {
+    "id": "ml_21",
+    "address": "880 Jule St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://stjosephmemorylane.com/10thstreetx.jpg",
+      "imageUrl": "/data/images/img_21.jpg",
+      "title": "Asset 21",
+      "caption": "10th & Felix& North 10thStreet",
+      "estimatedYear": 1907
+    },
+    "civicData": {
+      "zoning": "C-3 Commercial District",
+      "floodZone": "Zone AH (High Risk)",
+      "historicRegistry": "Eligible for Register",
+      "lotSizeSqFt": 7447,
+      "lastAssessmentValue": 962281
+    },
+    "permits": []
+  },
+  {
+    "id": "ml_22",
+    "address": "112 Felix St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://stjosephmemorylane.com/south10thx.jpg",
+      "imageUrl": "/data/images/img_22.jpg",
+      "title": "Asset 22",
+      "caption": "10th & Edmond& South 10thStreet",
+      "estimatedYear": 1935
+    },
+    "civicData": {
+      "zoning": "M-1 Light Industrial",
+      "floodZone": "Zone X (Minimal Risk)",
+      "historicRegistry": "Local Landmark",
+      "lotSizeSqFt": 3182,
+      "lastAssessmentValue": 1126898
+    },
+    "permits": [
+      {
+        "date": "2020-08-20",
+        "type": "Plumbing Repair",
+        "status": "Approved"
+      },
+      {
+        "date": "2011-08-20",
+        "type": "Interior Demolition",
+        "status": "Pending"
+      },
+      {
+        "date": "2006-07-25",
+        "type": "Roof Replacement",
+        "status": "Pending"
+      },
+      {
+        "date": "2001-01-28",
+        "type": "Electrical Upgrade",
+        "status": "Approved"
+      }
+    ]
+  },
+  {
+    "id": "ml_23",
+    "address": "552 Faraon St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://stjosephmemorylane.com/smallcityhallx.jpg",
+      "imageUrl": "/data/images/img_23.jpg",
+      "title": "Asset 23",
+      "caption": "North 11thStreetCity Hall",
+      "estimatedYear": 1896
+    },
+    "civicData": {
+      "zoning": "R-1 Single Family",
+      "floodZone": "Zone AE (High Risk)",
+      "historicRegistry": "Eligible for Register",
+      "lotSizeSqFt": 12590,
+      "lastAssessmentValue": 1092765
+    },
+    "permits": [
+      {
+        "date": "2018-06-20",
+        "type": "Roof Replacement",
+        "status": "Approved"
+      },
+      {
+        "date": "2004-04-06",
+        "type": "Roof Replacement",
+        "status": "Pending"
+      }
+    ]
+  },
+  {
+    "id": "ml_24",
+    "address": "541 Faraon St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://stjosephmemorylane.com/11thstreetparkx.jpg",
+      "imageUrl": "/data/images/img_24.jpg",
+      "title": "Asset 24",
+      "caption": "North 11thStreetSmith Park",
+      "estimatedYear": 1920
+    },
+    "civicData": {
+      "zoning": "M-1 Light Industrial",
+      "floodZone": "Zone AE (High Risk)",
+      "historicRegistry": "Eligible for Register",
+      "lotSizeSqFt": 5373,
+      "lastAssessmentValue": 802241
+    },
+    "permits": []
+  },
+  {
+    "id": "ml_25",
+    "address": "579 Felix St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://stjosephmemorylane.com/fredpicx.jpg",
+      "imageUrl": "/data/images/img_25.jpg",
+      "title": "Asset 25",
+      "caption": "Frederick Ave8th StreetTo18th Street",
+      "estimatedYear": 1939
+    },
+    "civicData": {
+      "zoning": "R-1 Single Family",
+      "floodZone": "Zone X (Minimal Risk)",
+      "historicRegistry": "National Register",
+      "lotSizeSqFt": 7122,
+      "lastAssessmentValue": 341497
+    },
+    "permits": [
+      {
+        "date": "2025-07-24",
+        "type": "Roof Replacement",
+        "status": "Closed"
+      },
+      {
+        "date": "2022-01-14",
+        "type": "Interior Demolition",
+        "status": "Pending"
+      },
+      {
+        "date": "2006-09-16",
+        "type": "Plumbing Repair",
+        "status": "Approved"
+      }
+    ]
+  },
+  {
+    "id": "ml_26",
+    "address": "737 King Hill Ave, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://stjosephmemorylane.com/18thfrederickx.jpg",
+      "imageUrl": "/data/images/img_26.jpg",
+      "title": "Asset 26",
+      "caption": "Frederick Ave18th StreetToCity Limits",
+      "estimatedYear": 1952
+    },
+    "civicData": {
+      "zoning": "R-2 Multi-Family",
+      "floodZone": "Zone X (Minimal Risk)",
+      "historicRegistry": "Local Landmark",
+      "lotSizeSqFt": 6364,
+      "lastAssessmentValue": 455733
+    },
+    "permits": [
+      {
+        "date": "2004-11-11",
+        "type": "Roof Replacement",
+        "status": "Approved"
+      }
+    ]
+  },
+  {
+    "id": "ml_27",
+    "address": "1295 King Hill Ave, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://stjosephmemorylane.com/sja1x.jpg",
+      "imageUrl": "/data/images/img_27.jpg",
+      "title": "Asset 27",
+      "caption": "St Joseph Ave1500 St Joe aveTo2100 St Joe Ave",
+      "estimatedYear": 1955
+    },
+    "civicData": {
+      "zoning": "R-1 Single Family",
+      "floodZone": "Zone AE (High Risk)",
+      "historicRegistry": "National Register",
+      "lotSizeSqFt": 13079,
+      "lastAssessmentValue": 1264503
+    },
+    "permits": []
+  },
+  {
+    "id": "ml_28",
+    "address": "1324 Jule St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://stjosephmemorylane.com/sja-grandx.jpg",
+      "imageUrl": "/data/images/img_28.jpg",
+      "title": "Asset 28",
+      "caption": "St Joseph Ave2100 St Joe AveToK-Highway",
+      "estimatedYear": 1945
+    },
+    "civicData": {
+      "zoning": "M-1 Light Industrial",
+      "floodZone": "Zone AH (High Risk)",
+      "historicRegistry": "Not Listed",
+      "lotSizeSqFt": 11920,
+      "lastAssessmentValue": 1134830
+    },
+    "permits": [
+      {
+        "date": "2000-09-23",
+        "type": "Facade Restoration",
+        "status": "Approved"
+      }
+    ]
+  },
+  {
+    "id": "ml_29",
+    "address": "321 Frederick Ave, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://stjosephmemorylane.com/kha-1x.jpg",
+      "imageUrl": "/data/images/img_29.jpg",
+      "title": "Asset 29",
+      "caption": "King Hill Ave3600 King HillTo5200 King Hill",
+      "estimatedYear": 1921
+    },
+    "civicData": {
+      "zoning": "R-1 Single Family",
+      "floodZone": "Zone X (Minimal Risk)",
+      "historicRegistry": "Not Listed",
+      "lotSizeSqFt": 7510,
+      "lastAssessmentValue": 317333
+    },
+    "permits": [
+      {
+        "date": "2017-03-15",
+        "type": "Roof Replacement",
+        "status": "Approved"
+      },
+      {
+        "date": "2001-02-22",
+        "type": "Electrical Upgrade",
+        "status": "Approved"
+      }
+    ]
+  },
+  {
+    "id": "ml_30",
+    "address": "1401 Felix St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://stjosephmemorylane.com/kha-2x.jpg",
+      "imageUrl": "/data/images/img_30.jpg",
+      "title": "Asset 30",
+      "caption": "King Hill Ave5200 King HillTo7200 King Hill",
+      "estimatedYear": 1929
+    },
+    "civicData": {
+      "zoning": "C-3 Commercial District",
+      "floodZone": "Zone X (Minimal Risk)",
+      "historicRegistry": "Not Listed",
+      "lotSizeSqFt": 6725,
+      "lastAssessmentValue": 1229686
+    },
+    "permits": []
+  },
+  {
+    "id": "ml_31",
+    "address": "640 Edmond St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://stjosephmemorylane.com/nbeltx.jpg",
+      "imageUrl": "/data/images/img_31.jpg",
+      "title": "Asset 31",
+      "caption": "NorthBelt HighwayNorth Of FelixUS 71 & 169",
+      "estimatedYear": 1910
+    },
+    "civicData": {
+      "zoning": "R-2 Multi-Family",
+      "floodZone": "Zone X (Minimal Risk)",
+      "historicRegistry": "Eligible for Register",
+      "lotSizeSqFt": 12280,
+      "lastAssessmentValue": 1015169
+    },
+    "permits": [
+      {
+        "date": "2010-02-16",
+        "type": "HVAC Installation",
+        "status": "Pending"
+      }
+    ]
+  },
+  {
+    "id": "ml_32",
+    "address": "446 Robidoux St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://stjosephmemorylane.com/sbeltx.jpg",
+      "imageUrl": "/data/images/img_32.jpg",
+      "title": "Asset 32",
+      "caption": "South Belt HighwaySouth of FelixUS 71 & 169",
+      "estimatedYear": 1898
+    },
+    "civicData": {
+      "zoning": "R-1 Single Family",
+      "floodZone": "Zone AH (High Risk)",
+      "historicRegistry": "Local Landmark",
+      "lotSizeSqFt": 10160,
+      "lastAssessmentValue": 1266512
+    },
+    "permits": [
+      {
+        "date": "2021-04-25",
+        "type": "Roof Replacement",
+        "status": "Pending"
+      },
+      {
+        "date": "2005-10-19",
+        "type": "Electrical Upgrade",
+        "status": "Approved"
+      },
+      {
+        "date": "2001-12-23",
+        "type": "Interior Demolition",
+        "status": "Approved"
+      },
+      {
+        "date": "1997-01-18",
+        "type": "Plumbing Repair",
+        "status": "Closed"
+      }
+    ]
+  },
+  {
+    "id": "ml_33",
+    "address": "467 Jule St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://stjosephmemorylane.com/meat1x.jpg",
+      "imageUrl": "/data/images/img_33.jpg",
+      "title": "Asset 33",
+      "caption": "St JosephGrocery StoresOf The PastBeginning WithA thru M",
+      "estimatedYear": 1917
+    },
+    "civicData": {
+      "zoning": "C-3 Commercial District",
+      "floodZone": "Zone X (Minimal Risk)",
+      "historicRegistry": "Eligible for Register",
+      "lotSizeSqFt": 9074,
+      "lastAssessmentValue": 149152
+    },
+    "permits": [
+      {
+        "date": "2006-04-22",
+        "type": "Interior Demolition",
+        "status": "Approved"
+      },
+      {
+        "date": "1999-11-04",
+        "type": "HVAC Installation",
+        "status": "Approved"
+      },
+      {
+        "date": "1999-04-03",
+        "type": "HVAC Installation",
+        "status": "Approved"
+      },
+      {
+        "date": "1996-12-20",
+        "type": "Interior Demolition",
+        "status": "Approved"
+      }
+    ]
+  },
+  {
+    "id": "ml_34",
+    "address": "1197 Felix St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://stjosephmemorylane.com/thomas2x.jpg",
+      "imageUrl": "/data/images/img_34.jpg",
+      "title": "Asset 34",
+      "caption": "St JosephGrocery StoresOf The PastBeginning WithN thru Z",
+      "estimatedYear": 1910
+    },
+    "civicData": {
+      "zoning": "C-3 Commercial District",
+      "floodZone": "Zone AH (High Risk)",
+      "historicRegistry": "Eligible for Register",
+      "lotSizeSqFt": 3546,
+      "lastAssessmentValue": 350279
+    },
+    "permits": [
+      {
+        "date": "2021-04-04",
+        "type": "HVAC Installation",
+        "status": "Approved"
+      },
+      {
+        "date": "2008-03-22",
+        "type": "Interior Demolition",
+        "status": "Approved"
+      },
+      {
+        "date": "2002-06-11",
+        "type": "Roof Replacement",
+        "status": "Approved"
+      }
+    ]
+  },
+  {
+    "id": "ml_35",
+    "address": "561 Francis St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://stjosephmemorylane.com/bmag1.jpg",
+      "imageUrl": "/data/images/img_35.jpg",
+      "title": "Asset 35",
+      "caption": "St Joseph Cafes& Restaurantsof the pastBeginning WithA thru L",
+      "estimatedYear": 1945
+    },
+    "civicData": {
+      "zoning": "C-3 Commercial District",
+      "floodZone": "Zone X (Minimal Risk)",
+      "historicRegistry": "Eligible for Register",
+      "lotSizeSqFt": 12057,
+      "lastAssessmentValue": 1018634
+    },
+    "permits": [
+      {
+        "date": "2013-10-14",
+        "type": "Facade Restoration",
+        "status": "Approved"
+      },
+      {
+        "date": "2001-08-28",
+        "type": "Roof Replacement",
+        "status": "Closed"
+      },
+      {
+        "date": "1997-03-03",
+        "type": "HVAC Installation",
+        "status": "Approved"
+      }
+    ]
+  },
+  {
+    "id": "ml_36",
+    "address": "371 St Joseph Ave, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://stjosephmemorylane.com/wadesx.jpg",
+      "imageUrl": "/data/images/img_36.jpg",
+      "title": "Asset 36",
+      "caption": "St Joseph Cafes& Restaurantsof the pastBeginning WithM thru Z",
+      "estimatedYear": 1930
+    },
+    "civicData": {
+      "zoning": "R-2 Multi-Family",
+      "floodZone": "Zone X (Minimal Risk)",
+      "historicRegistry": "Eligible for Register",
+      "lotSizeSqFt": 7138,
+      "lastAssessmentValue": 190091
+    },
+    "permits": []
+  },
+  {
+    "id": "ml_37",
+    "address": "243 Edmond St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://stjosephmemorylane.com/horseshoex.jpg",
+      "imageUrl": "/data/images/img_37.jpg",
+      "title": "Asset 37",
+      "caption": "St JosephGas StationsOf The PastBeginning WithA thru L",
+      "estimatedYear": 1923
+    },
+    "civicData": {
+      "zoning": "M-1 Light Industrial",
+      "floodZone": "Zone AH (High Risk)",
+      "historicRegistry": "Local Landmark",
+      "lotSizeSqFt": 4850,
+      "lastAssessmentValue": 592574
+    },
+    "permits": [
+      {
+        "date": "2017-10-06",
+        "type": "Interior Demolition",
+        "status": "Approved"
+      },
+      {
+        "date": "2013-02-01",
+        "type": "Facade Restoration",
+        "status": "Closed"
+      },
+      {
+        "date": "2012-08-26",
+        "type": "Plumbing Repair",
+        "status": "Approved"
+      }
+    ]
+  },
+  {
+    "id": "ml_38",
+    "address": "832 Edmond St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://stjosephmemorylane.com/skellyx.jpg",
+      "imageUrl": "/data/images/img_38.jpg",
+      "title": "Asset 38",
+      "caption": "St JosephGas StationsOf The PastBeginning WithM thru Z",
+      "estimatedYear": 1895
+    },
+    "civicData": {
+      "zoning": "C-2 Downtown Commercial",
+      "floodZone": "Zone X (Minimal Risk)",
+      "historicRegistry": "Local Landmark",
+      "lotSizeSqFt": 12744,
+      "lastAssessmentValue": 366067
+    },
+    "permits": [
+      {
+        "date": "2009-12-16",
+        "type": "Electrical Upgrade",
+        "status": "Closed"
+      },
+      {
+        "date": "2005-07-01",
+        "type": "Roof Replacement",
+        "status": "Approved"
+      },
+      {
+        "date": "2001-11-18",
+        "type": "Electrical Upgrade",
+        "status": "Approved"
+      }
+    ]
+  },
+  {
+    "id": "ml_39",
+    "address": "254 Frederick Ave, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://stjosephmemorylane.com/krugsc2x.jpg",
+      "imageUrl": "/data/images/img_39.jpg",
+      "title": "Asset 39",
+      "caption": "Old & NewSt JosephSchools LocatedNorth ofFelix",
+      "estimatedYear": 1945
+    },
+    "civicData": {
+      "zoning": "C-2 Downtown Commercial",
+      "floodZone": "Zone AH (High Risk)",
+      "historicRegistry": "National Register",
+      "lotSizeSqFt": 2687,
+      "lastAssessmentValue": 718843
+    },
+    "permits": [
+      {
+        "date": "2023-09-15",
+        "type": "Plumbing Repair",
+        "status": "Pending"
+      },
+      {
+        "date": "2010-03-24",
+        "type": "Roof Replacement",
+        "status": "Approved"
+      }
+    ]
+  },
+  {
+    "id": "ml_40",
+    "address": "1196 Felix St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://stjosephmemorylane.com/convent3x.jpg",
+      "imageUrl": "/data/images/img_40.jpg",
+      "title": "Asset 40",
+      "caption": "Old & NewSt JosephSchools LocatedSouth ofFelix",
+      "estimatedYear": 1912
+    },
+    "civicData": {
+      "zoning": "R-2 Multi-Family",
+      "floodZone": "Zone X (Minimal Risk)",
+      "historicRegistry": "National Register",
+      "lotSizeSqFt": 10493,
+      "lastAssessmentValue": 579740
+    },
+    "permits": [
+      {
+        "date": "2019-12-02",
+        "type": "Plumbing Repair",
+        "status": "Approved"
+      },
+      {
+        "date": "2016-02-26",
+        "type": "HVAC Installation",
+        "status": "Approved"
+      },
+      {
+        "date": "2016-02-14",
+        "type": "Roof Replacement",
+        "status": "Pending"
+      },
+      {
+        "date": "2010-09-15",
+        "type": "Electrical Upgrade",
+        "status": "Approved"
+      }
+    ]
+  },
+  {
+    "id": "ml_41",
+    "address": "651 Francis St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://stjosephmemorylane.com/hytruckx.jpg",
+      "imageUrl": "/data/images/img_41.jpg",
+      "title": "Asset 41",
+      "caption": "GooseTownArea",
+      "estimatedYear": 1927
+    },
+    "civicData": {
+      "zoning": "R-1 Single Family",
+      "floodZone": "Zone X (Minimal Risk)",
+      "historicRegistry": "Local Landmark",
+      "lotSizeSqFt": 9188,
+      "lastAssessmentValue": 1181441
+    },
+    "permits": [
+      {
+        "date": "2025-11-12",
+        "type": "Facade Restoration",
+        "status": "Approved"
+      },
+      {
+        "date": "2008-07-21",
+        "type": "Plumbing Repair",
+        "status": "Approved"
+      },
+      {
+        "date": "2007-07-08",
+        "type": "Facade Restoration",
+        "status": "Closed"
+      },
+      {
+        "date": "1998-05-17",
+        "type": "HVAC Installation",
+        "status": "Pending"
+      }
+    ]
+  },
+  {
+    "id": "ml_42",
+    "address": "1356 Jule St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://stjosephmemorylane.com/marketsquarex.jpg",
+      "imageUrl": "/data/images/img_42.jpg",
+      "title": "Asset 42",
+      "caption": "HistoricMarketSquare",
+      "estimatedYear": 1896
+    },
+    "civicData": {
+      "zoning": "R-2 Multi-Family",
+      "floodZone": "Zone AH (High Risk)",
+      "historicRegistry": "Local Landmark",
+      "lotSizeSqFt": 12593,
+      "lastAssessmentValue": 1191633
+    },
+    "permits": [
+      {
+        "date": "2021-04-07",
+        "type": "Plumbing Repair",
+        "status": "Approved"
+      },
+      {
+        "date": "2015-03-21",
+        "type": "Roof Replacement",
+        "status": "Approved"
+      },
+      {
+        "date": "2012-09-05",
+        "type": "Interior Demolition",
+        "status": "Pending"
+      },
+      {
+        "date": "2000-05-10",
+        "type": "Electrical Upgrade",
+        "status": "Approved"
+      }
+    ]
+  },
+  {
+    "id": "ml_43",
+    "address": "747 Felix St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://stjosephmemorylane.com/gfcwx.jpg",
+      "imageUrl": "/data/images/img_43.jpg",
+      "title": "Asset 43",
+      "caption": "SouthParkArea",
+      "estimatedYear": 1954
+    },
+    "civicData": {
+      "zoning": "C-2 Downtown Commercial",
+      "floodZone": "Zone X (Minimal Risk)",
+      "historicRegistry": "Eligible for Register",
+      "lotSizeSqFt": 2739,
+      "lastAssessmentValue": 1031022
+    },
+    "permits": []
+  },
+  {
+    "id": "ml_44",
+    "address": "922 Felix St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://stjosephmemorylane.com/transx.jpg",
+      "imageUrl": "/data/images/img_44.jpg",
+      "title": "Asset 44",
+      "caption": "SouthSt Joseph(South End)",
+      "estimatedYear": 1926
+    },
+    "civicData": {
+      "zoning": "C-3 Commercial District",
+      "floodZone": "Zone X (Minimal Risk)",
+      "historicRegistry": "Not Listed",
+      "lotSizeSqFt": 4990,
+      "lastAssessmentValue": 581037
+    },
+    "permits": [
+      {
+        "date": "2002-10-21",
+        "type": "Interior Demolition",
+        "status": "Pending"
+      },
+      {
+        "date": "1999-07-18",
+        "type": "Roof Replacement",
+        "status": "Pending"
+      }
+    ]
+  },
+  {
+    "id": "ml_45",
+    "address": "1340 Faraon St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://stjosephmemorylane.com/dannenx.jpg",
+      "imageUrl": "/data/images/img_45.jpg",
+      "title": "Asset 45",
+      "caption": "AdvertisingMatchbookCovers",
+      "estimatedYear": 1923
+    },
+    "civicData": {
+      "zoning": "R-2 Multi-Family",
+      "floodZone": "Zone X (Minimal Risk)",
+      "historicRegistry": "Local Landmark",
+      "lotSizeSqFt": 3768,
+      "lastAssessmentValue": 753100
+    },
+    "permits": []
+  },
+  {
+    "id": "ml_46",
+    "address": "779 Jule St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://stjosephmemorylane.com/morrisplanx.jpg",
+      "imageUrl": "/data/images/img_46.jpg",
+      "title": "Asset 46",
+      "caption": "Nostalgic& BusinessSouvenirs",
+      "estimatedYear": 1919
+    },
+    "civicData": {
+      "zoning": "M-1 Light Industrial",
+      "floodZone": "Zone X (Minimal Risk)",
+      "historicRegistry": "Not Listed",
+      "lotSizeSqFt": 6514,
+      "lastAssessmentValue": 527008
+    },
+    "permits": [
+      {
+        "date": "1997-12-07",
+        "type": "Plumbing Repair",
+        "status": "Approved"
+      }
+    ]
+  },
+  {
+    "id": "ml_47",
+    "address": "1111 King Hill Ave, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://stjosephmemorylane.com/burnsteinx.jpg",
+      "imageUrl": "/data/images/img_47.jpg",
+      "title": "Asset 47",
+      "caption": "BusinessTradeTokens",
+      "estimatedYear": 1938
+    },
+    "civicData": {
+      "zoning": "R-1 Single Family",
+      "floodZone": "Zone X (Minimal Risk)",
+      "historicRegistry": "Local Landmark",
+      "lotSizeSqFt": 5622,
+      "lastAssessmentValue": 115870
+    },
+    "permits": []
+  },
+  {
+    "id": "ml_48",
+    "address": "378 Syllamalash St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://stjosephmemorylane.com/coolcrestx.jpg",
+      "imageUrl": "/data/images/img_48.jpg",
+      "title": "Asset 48",
+      "caption": "St JosephBusinessSigns",
+      "estimatedYear": 1941
+    },
+    "civicData": {
+      "zoning": "M-1 Light Industrial",
+      "floodZone": "Zone AH (High Risk)",
+      "historicRegistry": "National Register",
+      "lotSizeSqFt": 4299,
+      "lastAssessmentValue": 350812
+    },
+    "permits": [
+      {
+        "date": "2012-12-24",
+        "type": "Electrical Upgrade",
+        "status": "Closed"
+      },
+      {
+        "date": "2003-11-07",
+        "type": "Electrical Upgrade",
+        "status": "Approved"
+      },
+      {
+        "date": "2001-04-09",
+        "type": "Electrical Upgrade",
+        "status": "Pending"
+      }
+    ]
+  },
+  {
+    "id": "ml_49",
+    "address": "1292 Frederick Ave, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://stjosephmemorylane.com/bshop3x.jpg",
+      "imageUrl": "/data/images/img_49.jpg",
+      "title": "Asset 49",
+      "caption": "BreweriesNightclubsTaverns & BarsSaloons",
+      "estimatedYear": 1897
+    },
+    "civicData": {
+      "zoning": "R-2 Multi-Family",
+      "floodZone": "Zone X (Minimal Risk)",
+      "historicRegistry": "Eligible for Register",
+      "lotSizeSqFt": 6904,
+      "lastAssessmentValue": 876097
+    },
+    "permits": [
+      {
+        "date": "2003-04-18",
+        "type": "Plumbing Repair",
+        "status": "Approved"
+      }
+    ]
+  },
+  {
+    "id": "ml_50",
+    "address": "504 St Joseph Ave, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://stjosephmemorylane.com/trail7x.jpg",
+      "imageUrl": "/data/images/img_50.jpg",
+      "title": "Asset 50",
+      "caption": "TheatersSilentVaudevilleDrive-Ins",
+      "estimatedYear": 1958
+    },
+    "civicData": {
+      "zoning": "M-1 Light Industrial",
+      "floodZone": "Zone AH (High Risk)",
+      "historicRegistry": "Not Listed",
+      "lotSizeSqFt": 5387,
+      "lastAssessmentValue": 277212
+    },
+    "permits": [
+      {
+        "date": "2009-12-12",
+        "type": "Interior Demolition",
+        "status": "Approved"
+      },
+      {
+        "date": "2005-02-19",
+        "type": "Electrical Upgrade",
+        "status": "Closed"
+      },
+      {
+        "date": "2000-05-25",
+        "type": "Interior Demolition",
+        "status": "Approved"
+      }
+    ]
+  },
+  {
+    "id": "ml_51",
+    "address": "527 Frederick Ave, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://stjosephmemorylane.com/abp59x.jpg",
+      "imageUrl": "/data/images/img_51.jpg",
+      "title": "Asset 51",
+      "caption": "ParadesCarnivalsandEvents",
+      "estimatedYear": 1917
+    },
+    "civicData": {
+      "zoning": "R-2 Multi-Family",
+      "floodZone": "Zone X (Minimal Risk)",
+      "historicRegistry": "Local Landmark",
+      "lotSizeSqFt": 12060,
+      "lastAssessmentValue": 1378289
+    },
+    "permits": [
+      {
+        "date": "2004-12-27",
+        "type": "Plumbing Repair",
+        "status": "Approved"
+      }
+    ]
+  },
+  {
+    "id": "ml_52",
+    "address": "857 Felix St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://stjosephmemorylane.com/lcadx.jpg",
+      "imageUrl": "/data/images/img_52.jpg",
+      "title": "Asset 52",
+      "caption": "Lake ContraryAmusementPark & Lake",
+      "estimatedYear": 1920
+    },
+    "civicData": {
+      "zoning": "R-2 Multi-Family",
+      "floodZone": "Zone AE (High Risk)",
+      "historicRegistry": "Not Listed",
+      "lotSizeSqFt": 14580,
+      "lastAssessmentValue": 54256
+    },
+    "permits": [
+      {
+        "date": "2003-01-19",
+        "type": "Roof Replacement",
+        "status": "Approved"
+      }
+    ]
+  },
+  {
+    "id": "ml_53",
+    "address": "146 King Hill Ave, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://stjosephmemorylane.com/19fredx.jpg",
+      "imageUrl": "/data/images/img_53.jpg",
+      "title": "Asset 53",
+      "caption": "Points of InterestNorth ofFelix Street",
+      "estimatedYear": 1916
+    },
+    "civicData": {
+      "zoning": "R-1 Single Family",
+      "floodZone": "Zone X (Minimal Risk)",
+      "historicRegistry": "Not Listed",
+      "lotSizeSqFt": 13988,
+      "lastAssessmentValue": 396392
+    },
+    "permits": [
+      {
+        "date": "2023-11-20",
+        "type": "Electrical Upgrade",
+        "status": "Approved"
+      },
+      {
+        "date": "2007-11-26",
+        "type": "HVAC Installation",
+        "status": "Pending"
+      },
+      {
+        "date": "2000-03-02",
+        "type": "Roof Replacement",
+        "status": "Approved"
+      }
+    ]
+  },
+  {
+    "id": "ml_54",
+    "address": "873 Frederick Ave, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://stjosephmemorylane.com/depotx.jpg",
+      "imageUrl": "/data/images/img_54.jpg",
+      "title": "Asset 54",
+      "caption": "Points of InterestSouth ofFelix Street",
+      "estimatedYear": 1905
+    },
+    "civicData": {
+      "zoning": "C-2 Downtown Commercial",
+      "floodZone": "Zone AE (High Risk)",
+      "historicRegistry": "National Register",
+      "lotSizeSqFt": 5996,
+      "lastAssessmentValue": 1407145
+    },
+    "permits": [
+      {
+        "date": "2023-12-14",
+        "type": "Interior Demolition",
+        "status": "Pending"
+      },
+      {
+        "date": "2020-12-07",
+        "type": "Roof Replacement",
+        "status": "Approved"
+      },
+      {
+        "date": "2001-05-24",
+        "type": "Interior Demolition",
+        "status": "Closed"
+      }
+    ]
+  },
+  {
+    "id": "ml_55",
+    "address": "723 Frederick Ave, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://stjosephmemorylane.com/milx.jpg",
+      "imageUrl": "/data/images/img_55.jpg",
+      "title": "Asset 55",
+      "caption": "NationalHeritageMuseum7th & Messanie",
+      "estimatedYear": 1941
+    },
+    "civicData": {
+      "zoning": "R-1 Single Family",
+      "floodZone": "Zone X (Minimal Risk)",
+      "historicRegistry": "Not Listed",
+      "lotSizeSqFt": 6788,
+      "lastAssessmentValue": 804934
+    },
+    "permits": [
+      {
+        "date": "2024-12-21",
+        "type": "Facade Restoration",
+        "status": "Approved"
+      },
+      {
+        "date": "2008-06-09",
+        "type": "Facade Restoration",
+        "status": "Pending"
+      }
+    ]
+  },
+  {
+    "id": "ml_56",
+    "address": "294 Francis St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://stjosephmemorylane.com/ttablex.jpg",
+      "imageUrl": "/data/images/img_56.jpg",
+      "title": "Asset 56",
+      "caption": "St Joseph'sRailroads& InterurbanRailway",
+      "estimatedYear": 1903
+    },
+    "civicData": {
+      "zoning": "R-1 Single Family",
+      "floodZone": "Zone AE (High Risk)",
+      "historicRegistry": "National Register",
+      "lotSizeSqFt": 8815,
+      "lastAssessmentValue": 1427989
+    },
+    "permits": [
+      {
+        "date": "2013-02-15",
+        "type": "Roof Replacement",
+        "status": "Approved"
+      },
+      {
+        "date": "2009-02-01",
+        "type": "HVAC Installation",
+        "status": "Pending"
+      },
+      {
+        "date": "1999-07-04",
+        "type": "Plumbing Repair",
+        "status": "Closed"
+      }
+    ]
+  },
+  {
+    "id": "ml_57",
+    "address": "702 Syllamalash St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://stjosephmemorylane.com/urban2x.jpg",
+      "imageUrl": "/data/images/img_57.jpg",
+      "title": "Asset 57",
+      "caption": "1970's Downtown Urban Renewal",
+      "estimatedYear": 1915
+    },
+    "civicData": {
+      "zoning": "M-1 Light Industrial",
+      "floodZone": "Zone X (Minimal Risk)",
+      "historicRegistry": "National Register",
+      "lotSizeSqFt": 11909,
+      "lastAssessmentValue": 1251067
+    },
+    "permits": [
+      {
+        "date": "2022-01-18",
+        "type": "Interior Demolition",
+        "status": "Approved"
+      },
+      {
+        "date": "2021-01-24",
+        "type": "Facade Restoration",
+        "status": "Closed"
+      },
+      {
+        "date": "2012-05-01",
+        "type": "Roof Replacement",
+        "status": "Approved"
+      }
+    ]
+  },
+  {
+    "id": "ml_58",
+    "address": "1435 Francis St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://stjosephmemorylane.com/hatfieldx.jpg",
+      "imageUrl": "/data/images/img_58.jpg",
+      "title": "Asset 58",
+      "caption": "HardwareStoresof Past",
+      "estimatedYear": 1936
+    },
+    "civicData": {
+      "zoning": "M-1 Light Industrial",
+      "floodZone": "Zone X (Minimal Risk)",
+      "historicRegistry": "National Register",
+      "lotSizeSqFt": 9843,
+      "lastAssessmentValue": 206647
+    },
+    "permits": [
+      {
+        "date": "2025-03-26",
+        "type": "Interior Demolition",
+        "status": "Pending"
+      },
+      {
+        "date": "2017-02-20",
+        "type": "Electrical Upgrade",
+        "status": "Approved"
+      },
+      {
+        "date": "2012-01-10",
+        "type": "HVAC Installation",
+        "status": "Approved"
+      },
+      {
+        "date": "2009-12-13",
+        "type": "Interior Demolition",
+        "status": "Closed"
+      }
+    ]
+  },
+  {
+    "id": "ml_59",
+    "address": "675 Robidoux St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://stjosephmemorylane.com/hrob2x.jpg",
+      "imageUrl": "/data/images/img_59.jpg",
+      "title": "Asset 59",
+      "caption": "HotelsMotelsApartments",
+      "estimatedYear": 1938
+    },
+    "civicData": {
+      "zoning": "R-2 Multi-Family",
+      "floodZone": "Zone X (Minimal Risk)",
+      "historicRegistry": "Eligible for Register",
+      "lotSizeSqFt": 4956,
+      "lastAssessmentValue": 1449489
+    },
+    "permits": [
+      {
+        "date": "2024-05-27",
+        "type": "Roof Replacement",
+        "status": "Approved"
+      },
+      {
+        "date": "2024-02-04",
+        "type": "Interior Demolition",
+        "status": "Pending"
+      },
+      {
+        "date": "2005-05-19",
+        "type": "Roof Replacement",
+        "status": "Pending"
+      }
+    ]
+  },
+  {
+    "id": "ml_60",
+    "address": "614 Syllamalash St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://stjosephmemorylane.com/Wesley%20settlement%20house%201912x.jpg",
+      "imageUrl": "/data/images/img_60.jpg",
+      "title": "Asset 60",
+      "caption": "HistoricalWesleyHouse",
+      "estimatedYear": 1915
+    },
+    "civicData": {
+      "zoning": "M-1 Light Industrial",
+      "floodZone": "Zone X (Minimal Risk)",
+      "historicRegistry": "Not Listed",
+      "lotSizeSqFt": 5683,
+      "lastAssessmentValue": 939370
+    },
+    "permits": [
+      {
+        "date": "2001-04-06",
+        "type": "Electrical Upgrade",
+        "status": "Pending"
+      }
+    ]
+  },
+  {
+    "id": "ml_61",
+    "address": "919 Felix St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://stjosephmemorylane.com/thomasmkt.jpg",
+      "imageUrl": "/data/images/img_61.jpg",
+      "title": "Asset 61",
+      "caption": "Fruit &VegetableMarketsof the past",
+      "estimatedYear": 1903
+    },
+    "civicData": {
+      "zoning": "C-2 Downtown Commercial",
+      "floodZone": "Zone AE (High Risk)",
+      "historicRegistry": "National Register",
+      "lotSizeSqFt": 10555,
+      "lastAssessmentValue": 666919
+    },
+    "permits": [
+      {
+        "date": "2001-09-07",
+        "type": "Electrical Upgrade",
+        "status": "Closed"
+      }
+    ]
+  },
+  {
+    "id": "ml_62",
+    "address": "871 Jule St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://stjosephmemorylane.com/bugle.jpg",
+      "imageUrl": "/data/images/img_62.jpg",
+      "title": "Asset 62",
+      "caption": "St JosephR.O.T.C.Circa 1958Thru 1962",
+      "estimatedYear": 1905
+    },
+    "civicData": {
+      "zoning": "C-2 Downtown Commercial",
+      "floodZone": "Zone X (Minimal Risk)",
+      "historicRegistry": "Not Listed",
+      "lotSizeSqFt": 8126,
+      "lastAssessmentValue": 600150
+    },
+    "permits": []
+  },
+  {
+    "id": "ml_63",
+    "address": "1074 Frederick Ave, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://stjosephmemorylane.com/mgold2x.jpg",
+      "imageUrl": "/data/images/img_63.jpg",
+      "title": "Asset 63",
+      "caption": "Street CarsTrolleysCity Buses &Delivery Vehicles",
+      "estimatedYear": 1926
+    },
+    "civicData": {
+      "zoning": "C-2 Downtown Commercial",
+      "floodZone": "Zone AE (High Risk)",
+      "historicRegistry": "Not Listed",
+      "lotSizeSqFt": 10766,
+      "lastAssessmentValue": 967686
+    },
+    "permits": []
+  },
+  {
+    "id": "ml_64",
+    "address": "1062 Jule St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://stjosephmemorylane.com/dugdale2x.jpg",
+      "imageUrl": "/data/images/img_64.jpg",
+      "title": "Asset 64",
+      "caption": "Manfactr'sPlants & Factories",
+      "estimatedYear": 1903
+    },
+    "civicData": {
+      "zoning": "R-2 Multi-Family",
+      "floodZone": "Zone AE (High Risk)",
+      "historicRegistry": "National Register",
+      "lotSizeSqFt": 9334,
+      "lastAssessmentValue": 773005
+    },
+    "permits": []
+  },
+  {
+    "id": "ml_65",
+    "address": "303 King Hill Ave, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://stjosephmemorylane.com/postcardsx.jpg",
+      "imageUrl": "/data/images/img_65.jpg",
+      "title": "Asset 65",
+      "caption": "St JosephPicturePostcards",
+      "estimatedYear": 1894
+    },
+    "civicData": {
+      "zoning": "R-1 Single Family",
+      "floodZone": "Zone AE (High Risk)",
+      "historicRegistry": "Local Landmark",
+      "lotSizeSqFt": 7335,
+      "lastAssessmentValue": 972561
+    },
+    "permits": [
+      {
+        "date": "2016-05-16",
+        "type": "Facade Restoration",
+        "status": "Closed"
+      }
+    ]
+  },
+  {
+    "id": "ml_66",
+    "address": "1282 Francis St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://stjosephmemorylane.com/flor1x.jpg",
+      "imageUrl": "/data/images/img_66.jpg",
+      "title": "Asset 66",
+      "caption": "c. 1958FlorenceAddition",
+      "estimatedYear": 1902
+    },
+    "civicData": {
+      "zoning": "C-3 Commercial District",
+      "floodZone": "Zone X (Minimal Risk)",
+      "historicRegistry": "Eligible for Register",
+      "lotSizeSqFt": 8256,
+      "lastAssessmentValue": 641854
+    },
+    "permits": []
+  },
+  {
+    "id": "ml_67",
+    "address": "721 King Hill Ave, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://stjosephmemorylane.com/2nd%20&%20Edmond%201898x.jpg",
+      "imageUrl": "/data/images/img_67.jpg",
+      "title": "Asset 67",
+      "caption": "BakeriesConfectionersIce Cream",
+      "estimatedYear": 1931
+    },
+    "civicData": {
+      "zoning": "C-3 Commercial District",
+      "floodZone": "Zone X (Minimal Risk)",
+      "historicRegistry": "Not Listed",
+      "lotSizeSqFt": 14301,
+      "lastAssessmentValue": 749069
+    },
+    "permits": []
+  },
+  {
+    "id": "ml_68",
+    "address": "1031 Robidoux St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://stjosephmemorylane.com/glidex.jpg",
+      "imageUrl": "/data/images/img_68.jpg",
+      "title": "Asset 68",
+      "caption": "Drug StoresPharmaciesOf Past",
+      "estimatedYear": 1932
+    },
+    "civicData": {
+      "zoning": "C-2 Downtown Commercial",
+      "floodZone": "Zone AH (High Risk)",
+      "historicRegistry": "Local Landmark",
+      "lotSizeSqFt": 14698,
+      "lastAssessmentValue": 1221574
+    },
+    "permits": [
+      {
+        "date": "2021-02-13",
+        "type": "Facade Restoration",
+        "status": "Closed"
+      },
+      {
+        "date": "2009-12-15",
+        "type": "Facade Restoration",
+        "status": "Approved"
+      },
+      {
+        "date": "2002-07-26",
+        "type": "Roof Replacement",
+        "status": "Approved"
+      }
+    ]
+  },
+  {
+    "id": "ml_69",
+    "address": "607 St Joseph Ave, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://stjosephmemorylane.com/1915willys-overland2x.jpg",
+      "imageUrl": "/data/images/img_69.jpg",
+      "title": "Asset 69",
+      "caption": "New & UsedAutomobile Dealers",
+      "estimatedYear": 1959
+    },
+    "civicData": {
+      "zoning": "C-2 Downtown Commercial",
+      "floodZone": "Zone AE (High Risk)",
+      "historicRegistry": "Eligible for Register",
+      "lotSizeSqFt": 12820,
+      "lastAssessmentValue": 916613
+    },
+    "permits": [
+      {
+        "date": "2025-05-11",
+        "type": "Electrical Upgrade",
+        "status": "Approved"
+      },
+      {
+        "date": "2024-11-20",
+        "type": "Electrical Upgrade",
+        "status": "Approved"
+      },
+      {
+        "date": "1996-07-16",
+        "type": "Electrical Upgrade",
+        "status": "Closed"
+      }
+    ]
+  },
+  {
+    "id": "ml_70",
+    "address": "1079 St Joseph Ave, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://stjosephmemorylane.com/1211s10thx.jpg",
+      "imageUrl": "/data/images/img_70.jpg",
+      "title": "Asset 70",
+      "caption": "Auto RepairParts, Garages",
+      "estimatedYear": 1930
+    },
+    "civicData": {
+      "zoning": "C-2 Downtown Commercial",
+      "floodZone": "Zone X (Minimal Risk)",
+      "historicRegistry": "Not Listed",
+      "lotSizeSqFt": 4710,
+      "lastAssessmentValue": 467111
+    },
+    "permits": [
+      {
+        "date": "2024-01-23",
+        "type": "Electrical Upgrade",
+        "status": "Approved"
+      }
+    ]
+  },
+  {
+    "id": "ml_71",
+    "address": "914 Jule St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://stjosephmemorylane.com/spccx.jpg",
+      "imageUrl": "/data/images/img_71.jpg",
+      "title": "Asset 71",
+      "caption": "Places of WorshipA to LChurchesTemplesSynagogues",
+      "estimatedYear": 1957
+    },
+    "civicData": {
+      "zoning": "R-2 Multi-Family",
+      "floodZone": "Zone X (Minimal Risk)",
+      "historicRegistry": "Not Listed",
+      "lotSizeSqFt": 6534,
+      "lastAssessmentValue": 1330240
+    },
+    "permits": [
+      {
+        "date": "2021-09-15",
+        "type": "HVAC Installation",
+        "status": "Approved"
+      },
+      {
+        "date": "2002-09-06",
+        "type": "Plumbing Repair",
+        "status": "Approved"
+      }
+    ]
+  },
+  {
+    "id": "ml_72",
+    "address": "1167 Edmond St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://stjosephmemorylane.com/spumx.jpg",
+      "imageUrl": "/data/images/img_72.jpg",
+      "title": "Asset 72",
+      "caption": "Places of WorshipM to ZChurchesTemplesSynagogues",
+      "estimatedYear": 1907
+    },
+    "civicData": {
+      "zoning": "R-2 Multi-Family",
+      "floodZone": "Zone X (Minimal Risk)",
+      "historicRegistry": "Local Landmark",
+      "lotSizeSqFt": 7436,
+      "lastAssessmentValue": 727382
+    },
+    "permits": [
+      {
+        "date": "2014-11-09",
+        "type": "Plumbing Repair",
+        "status": "Approved"
+      },
+      {
+        "date": "2008-10-10",
+        "type": "Electrical Upgrade",
+        "status": "Approved"
+      }
+    ]
+  },
+  {
+    "id": "ml_73",
+    "address": "1034 King Hill Ave, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://stjosephmemorylane.com/11thx.jpg",
+      "imageUrl": "/data/images/img_73.jpg",
+      "title": "Asset 73",
+      "caption": "City ParksParkways& Boulevard System",
+      "estimatedYear": 1896
+    },
+    "civicData": {
+      "zoning": "C-3 Commercial District",
+      "floodZone": "Zone AE (High Risk)",
+      "historicRegistry": "National Register",
+      "lotSizeSqFt": 7090,
+      "lastAssessmentValue": 1069628
+    },
+    "permits": []
+  },
+  {
+    "id": "ml_74",
+    "address": "357 Faraon St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://stjosephmemorylane.com/kplag7x.jpg",
+      "imageUrl": "/data/images/img_74.jpg",
+      "title": "Asset 74",
+      "caption": "St Joseph'sHistoricKrugPark",
+      "estimatedYear": 1943
+    },
+    "civicData": {
+      "zoning": "R-2 Multi-Family",
+      "floodZone": "Zone AE (High Risk)",
+      "historicRegistry": "Not Listed",
+      "lotSizeSqFt": 4488,
+      "lastAssessmentValue": 504684
+    },
+    "permits": [
+      {
+        "date": "2006-02-10",
+        "type": "Electrical Upgrade",
+        "status": "Approved"
+      },
+      {
+        "date": "1999-07-19",
+        "type": "Plumbing Repair",
+        "status": "Approved"
+      }
+    ]
+  },
+  {
+    "id": "ml_75",
+    "address": "969 Robidoux St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://stjosephmemorylane.com/rpkp.jpg",
+      "imageUrl": "/data/images/img_75.jpg",
+      "title": "Asset 75",
+      "caption": "Rick & Pam's1964 tripthroughKrug Park",
+      "estimatedYear": 1914
+    },
+    "civicData": {
+      "zoning": "C-3 Commercial District",
+      "floodZone": "Zone X (Minimal Risk)",
+      "historicRegistry": "Local Landmark",
+      "lotSizeSqFt": 4038,
+      "lastAssessmentValue": 779332
+    },
+    "permits": [
+      {
+        "date": "2004-07-17",
+        "type": "Roof Replacement",
+        "status": "Approved"
+      },
+      {
+        "date": "2001-04-15",
+        "type": "Interior Demolition",
+        "status": "Approved"
+      }
+    ]
+  },
+  {
+    "id": "ml_76",
+    "address": "199 Faraon St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://stjosephmemorylane.com/kp41x.jpg",
+      "imageUrl": "/data/images/img_76.jpg",
+      "title": "Asset 76",
+      "caption": "Randall Huston's2014 TourKrug Park Castle",
+      "estimatedYear": 1950
+    },
+    "civicData": {
+      "zoning": "C-2 Downtown Commercial",
+      "floodZone": "Zone AH (High Risk)",
+      "historicRegistry": "Local Landmark",
+      "lotSizeSqFt": 4545,
+      "lastAssessmentValue": 1371841
+    },
+    "permits": []
+  },
+  {
+    "id": "ml_77",
+    "address": "343 Robidoux St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://stjosephmemorylane.com/section1.jpg",
+      "imageUrl": "/data/images/img_77.jpg",
+      "title": "Asset 77",
+      "caption": "Vintage &HistoricHousesPART 1Includes",
+      "estimatedYear": 1927
+    },
+    "civicData": {
+      "zoning": "R-1 Single Family",
+      "floodZone": "Zone AH (High Risk)",
+      "historicRegistry": "Eligible for Register",
+      "lotSizeSqFt": 2691,
+      "lastAssessmentValue": 483599
+    },
+    "permits": [
+      {
+        "date": "2011-08-02",
+        "type": "Plumbing Repair",
+        "status": "Pending"
+      }
+    ]
+  },
+  {
+    "id": "ml_78",
+    "address": "168 Jule St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://stjosephmemorylane.com/section2.jpg",
+      "imageUrl": "/data/images/img_78.jpg",
+      "title": "Asset 78",
+      "caption": "Vintage & HistoricHousesPART 2Includes",
+      "estimatedYear": 1932
+    },
+    "civicData": {
+      "zoning": "R-2 Multi-Family",
+      "floodZone": "Zone X (Minimal Risk)",
+      "historicRegistry": "Not Listed",
+      "lotSizeSqFt": 10766,
+      "lastAssessmentValue": 514270
+    },
+    "permits": [
+      {
+        "date": "2011-08-07",
+        "type": "Facade Restoration",
+        "status": "Pending"
+      },
+      {
+        "date": "2000-05-17",
+        "type": "Facade Restoration",
+        "status": "Approved"
+      }
+    ]
+  },
+  {
+    "id": "ml_79",
+    "address": "324 Frederick Ave, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://stjosephmemorylane.com/section4.jpg",
+      "imageUrl": "/data/images/img_79.jpg",
+      "title": "Asset 79",
+      "caption": "Vintage & HistoricHousesPART 3Includes",
+      "estimatedYear": 1916
+    },
+    "civicData": {
+      "zoning": "R-2 Multi-Family",
+      "floodZone": "Zone AH (High Risk)",
+      "historicRegistry": "National Register",
+      "lotSizeSqFt": 3571,
+      "lastAssessmentValue": 433210
+    },
+    "permits": [
+      {
+        "date": "2025-09-11",
+        "type": "Roof Replacement",
+        "status": "Approved"
+      },
+      {
+        "date": "2007-10-02",
+        "type": "Facade Restoration",
+        "status": "Pending"
+      }
+    ]
+  },
+  {
+    "id": "ml_80",
+    "address": "410 Robidoux St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://stjosephmemorylane.com/muse5x.jpg",
+      "imageUrl": "/data/images/img_80.jpg",
+      "title": "Asset 80",
+      "caption": "Museum HillHistoricHomesIncludes",
+      "estimatedYear": 1921
+    },
+    "civicData": {
+      "zoning": "C-3 Commercial District",
+      "floodZone": "Zone AE (High Risk)",
+      "historicRegistry": "Eligible for Register",
+      "lotSizeSqFt": 8769,
+      "lastAssessmentValue": 1138082
+    },
+    "permits": [
+      {
+        "date": "2014-06-28",
+        "type": "Plumbing Repair",
+        "status": "Approved"
+      },
+      {
+        "date": "2008-12-12",
+        "type": "HVAC Installation",
+        "status": "Approved"
+      }
+    ]
+  },
+  {
+    "id": "ml_81",
+    "address": "153 Jule St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://stjosephmemorylane.com/fs0x.jpg",
+      "imageUrl": "/data/images/img_81.jpg",
+      "title": "Asset 81",
+      "caption": "St JosephFire Dept1865-Present",
+      "estimatedYear": 1925
+    },
+    "civicData": {
+      "zoning": "R-2 Multi-Family",
+      "floodZone": "Zone AE (High Risk)",
+      "historicRegistry": "National Register",
+      "lotSizeSqFt": 3228,
+      "lastAssessmentValue": 1127684
+    },
+    "permits": [
+      {
+        "date": "2024-04-17",
+        "type": "Electrical Upgrade",
+        "status": "Approved"
+      },
+      {
+        "date": "2015-10-25",
+        "type": "Plumbing Repair",
+        "status": "Closed"
+      },
+      {
+        "date": "2001-01-10",
+        "type": "Electrical Upgrade",
+        "status": "Closed"
+      }
+    ]
+  },
+  {
+    "id": "ml_82",
+    "address": "1335 Francis St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://stjosephmemorylane.com/redapplex.jpg",
+      "imageUrl": "/data/images/img_82.jpg",
+      "title": "Asset 82",
+      "caption": "Near By Points ofInterest",
+      "estimatedYear": 1941
+    },
+    "civicData": {
+      "zoning": "C-2 Downtown Commercial",
+      "floodZone": "Zone X (Minimal Risk)",
+      "historicRegistry": "Eligible for Register",
+      "lotSizeSqFt": 12825,
+      "lastAssessmentValue": 1019739
+    },
+    "permits": [
+      {
+        "date": "2007-12-13",
+        "type": "Roof Replacement",
+        "status": "Approved"
+      }
+    ]
+  },
+  {
+    "id": "ml_83",
+    "address": "668 Jule St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://stjosephmemorylane.com/psurgx.jpg",
+      "imageUrl": "/data/images/img_83.jpg",
+      "title": "Asset 83",
+      "caption": "HospitalsMedical& Mental",
+      "estimatedYear": 1917
+    },
+    "civicData": {
+      "zoning": "R-1 Single Family",
+      "floodZone": "Zone X (Minimal Risk)",
+      "historicRegistry": "National Register",
+      "lotSizeSqFt": 10528,
+      "lastAssessmentValue": 144408
+    },
+    "permits": [
+      {
+        "date": "2021-12-04",
+        "type": "Plumbing Repair",
+        "status": "Pending"
+      },
+      {
+        "date": "2011-02-09",
+        "type": "Interior Demolition",
+        "status": "Approved"
+      },
+      {
+        "date": "2005-10-28",
+        "type": "Plumbing Repair",
+        "status": "Pending"
+      },
+      {
+        "date": "2001-11-28",
+        "type": "Interior Demolition",
+        "status": "Closed"
+      }
+    ]
+  },
+  {
+    "id": "ml_84",
+    "address": "1307 King Hill Ave, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://stjosephmemorylane.com/1993floodx.jpg",
+      "imageUrl": "/data/images/img_84.jpg",
+      "title": "Asset 84",
+      "caption": "St Joseph& AreaFloods",
+      "estimatedYear": 1894
+    },
+    "civicData": {
+      "zoning": "R-1 Single Family",
+      "floodZone": "Zone X (Minimal Risk)",
+      "historicRegistry": "Not Listed",
+      "lotSizeSqFt": 11004,
+      "lastAssessmentValue": 1403374
+    },
+    "permits": [
+      {
+        "date": "2010-10-06",
+        "type": "Interior Demolition",
+        "status": "Closed"
+      }
+    ]
+  },
+  {
+    "id": "ml_85",
+    "address": "1117 Jule St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://stjosephmemorylane.com/nwmgenx.jpg",
+      "imageUrl": "/data/images/img_85.jpg",
+      "title": "Asset 85",
+      "caption": "NW MOGenealogicalSociety",
+      "estimatedYear": 1905
+    },
+    "civicData": {
+      "zoning": "R-2 Multi-Family",
+      "floodZone": "Zone AE (High Risk)",
+      "historicRegistry": "Local Landmark",
+      "lotSizeSqFt": 14495,
+      "lastAssessmentValue": 1348761
+    },
+    "permits": [
+      {
+        "date": "2014-11-19",
+        "type": "Interior Demolition",
+        "status": "Approved"
+      },
+      {
+        "date": "2010-04-22",
+        "type": "Interior Demolition",
+        "status": "Approved"
+      },
+      {
+        "date": "2001-10-23",
+        "type": "Facade Restoration",
+        "status": "Pending"
+      },
+      {
+        "date": "2001-09-04",
+        "type": "Facade Restoration",
+        "status": "Pending"
+      }
+    ]
+  },
+  {
+    "id": "ml_86",
+    "address": "1143 Edmond St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://stjosephmemorylane.com/wthr.jpg",
+      "imageUrl": "/data/images/img_86.jpg",
+      "title": "Asset 86",
+      "caption": "St Joseph& WorldWeather",
+      "estimatedYear": 1925
+    },
+    "civicData": {
+      "zoning": "C-2 Downtown Commercial",
+      "floodZone": "Zone X (Minimal Risk)",
+      "historicRegistry": "National Register",
+      "lotSizeSqFt": 14098,
+      "lastAssessmentValue": 477548
+    },
+    "permits": [
+      {
+        "date": "2016-07-14",
+        "type": "Roof Replacement",
+        "status": "Closed"
+      }
+    ]
+  },
+  {
+    "id": "ml_87",
+    "address": "1248 St Joseph Ave, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://stjosephmemorylane.com/fortsmith1x.jpg",
+      "imageUrl": "/data/images/img_87.jpg",
+      "title": "Asset 87",
+      "caption": "St Joseph'sCivil WarFort Smith",
+      "estimatedYear": 1905
+    },
+    "civicData": {
+      "zoning": "R-2 Multi-Family",
+      "floodZone": "Zone X (Minimal Risk)",
+      "historicRegistry": "National Register",
+      "lotSizeSqFt": 12526,
+      "lastAssessmentValue": 1475616
+    },
+    "permits": [
+      {
+        "date": "2017-01-04",
+        "type": "Roof Replacement",
+        "status": "Approved"
+      },
+      {
+        "date": "2015-12-28",
+        "type": "Roof Replacement",
+        "status": "Closed"
+      },
+      {
+        "date": "1997-08-11",
+        "type": "HVAC Installation",
+        "status": "Approved"
+      }
+    ]
+  },
+  {
+    "id": "ml_88",
+    "address": "175 Edmond St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://stjosephmemorylane.com/citybus.jpg",
+      "imageUrl": "/data/images/img_88.jpg",
+      "title": "Asset 88",
+      "caption": "Tom'sSt JosephBuses",
+      "estimatedYear": 1926
+    },
+    "civicData": {
+      "zoning": "C-2 Downtown Commercial",
+      "floodZone": "Zone AH (High Risk)",
+      "historicRegistry": "Eligible for Register",
+      "lotSizeSqFt": 5544,
+      "lastAssessmentValue": 84458
+    },
+    "permits": [
+      {
+        "date": "2024-10-11",
+        "type": "Plumbing Repair",
+        "status": "Pending"
+      }
+    ]
+  },
+  {
+    "id": "ml_89",
+    "address": "562 Robidoux St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://stjosephmemorylane.com/interx.jpg",
+      "imageUrl": "/data/images/img_89.jpg",
+      "title": "Asset 89",
+      "caption": "Gentry'sSt Joe/KCInterurban",
+      "estimatedYear": 1948
+    },
+    "civicData": {
+      "zoning": "R-1 Single Family",
+      "floodZone": "Zone X (Minimal Risk)",
+      "historicRegistry": "National Register",
+      "lotSizeSqFt": 10891,
+      "lastAssessmentValue": 286609
+    },
+    "permits": [
+      {
+        "date": "2018-04-01",
+        "type": "Electrical Upgrade",
+        "status": "Approved"
+      },
+      {
+        "date": "1995-08-26",
+        "type": "Plumbing Repair",
+        "status": "Closed"
+      }
+    ]
+  },
+  {
+    "id": "ml_90",
+    "address": "243 Jule St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://stjosephmemorylane.com/rhsx.jpg",
+      "imageUrl": "/data/images/img_90.jpg",
+      "title": "Asset 90",
+      "caption": "Rick'sPersonalHomepage",
+      "estimatedYear": 1943
+    },
+    "civicData": {
+      "zoning": "C-2 Downtown Commercial",
+      "floodZone": "Zone AE (High Risk)",
+      "historicRegistry": "Eligible for Register",
+      "lotSizeSqFt": 3461,
+      "lastAssessmentValue": 439621
+    },
+    "permits": []
+  },
+  {
+    "id": "ml_91",
+    "address": "948 Frederick Ave, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://stjosephmemorylane.com/wordpressx.jpg",
+      "imageUrl": "/data/images/img_91.jpg",
+      "title": "Asset 91",
+      "caption": "St JosephMemory LaneBlog",
+      "estimatedYear": 1955
+    },
+    "civicData": {
+      "zoning": "R-1 Single Family",
+      "floodZone": "Zone AH (High Risk)",
+      "historicRegistry": "Eligible for Register",
+      "lotSizeSqFt": 12097,
+      "lastAssessmentValue": 1332421
+    },
+    "permits": [
+      {
+        "date": "2025-11-11",
+        "type": "Facade Restoration",
+        "status": "Closed"
+      },
+      {
+        "date": "2013-07-23",
+        "type": "Interior Demolition",
+        "status": "Pending"
+      },
+      {
+        "date": "2009-09-18",
+        "type": "Plumbing Repair",
+        "status": "Approved"
+      },
+      {
+        "date": "2002-09-15",
+        "type": "Interior Demolition",
+        "status": "Closed"
+      }
+    ]
+  },
+  {
+    "id": "ml_92",
+    "address": "450 King Hill Ave, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://www.stjosephmemorylane.com/findamate/chs10x.jpg",
+      "imageUrl": "/data/images/img_92.jpg",
+      "title": "Asset 92",
+      "caption": "Historic Image 2",
+      "estimatedYear": 1918
+    },
+    "civicData": {
+      "zoning": "M-1 Light Industrial",
+      "floodZone": "Zone AH (High Risk)",
+      "historicRegistry": "Eligible for Register",
+      "lotSizeSqFt": 7124,
+      "lastAssessmentValue": 710152
+    },
+    "permits": [
+      {
+        "date": "1995-04-03",
+        "type": "Roof Replacement",
+        "status": "Approved"
+      }
+    ]
+  },
+  {
+    "id": "ml_93",
+    "address": "301 Francis St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://www.stjosephmemorylane.com/findamate/lhs10x.jpg",
+      "imageUrl": "/data/images/img_93.jpg",
+      "title": "Asset 93",
+      "caption": "Historic Image 36",
+      "estimatedYear": 1943
+    },
+    "civicData": {
+      "zoning": "C-2 Downtown Commercial",
+      "floodZone": "Zone X (Minimal Risk)",
+      "historicRegistry": "Eligible for Register",
+      "lotSizeSqFt": 4173,
+      "lastAssessmentValue": 1487423
+    },
+    "permits": []
+  },
+  {
+    "id": "ml_94",
+    "address": "175 St Joseph Ave, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://www.stjosephmemorylane.com/findamate/bhs8x.jpg",
+      "imageUrl": "/data/images/img_94.jpg",
+      "title": "Asset 94",
+      "caption": "Historic Image 44",
+      "estimatedYear": 1909
+    },
+    "civicData": {
+      "zoning": "C-2 Downtown Commercial",
+      "floodZone": "Zone X (Minimal Risk)",
+      "historicRegistry": "Not Listed",
+      "lotSizeSqFt": 7254,
+      "lastAssessmentValue": 403900
+    },
+    "permits": [
+      {
+        "date": "2015-11-03",
+        "type": "Roof Replacement",
+        "status": "Approved"
+      },
+      {
+        "date": "2005-08-09",
+        "type": "Roof Replacement",
+        "status": "Approved"
+      },
+      {
+        "date": "2003-07-11",
+        "type": "Electrical Upgrade",
+        "status": "Approved"
+      }
+    ]
+  },
+  {
+    "id": "ml_95",
+    "address": "1428 Felix St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://www.stjosephmemorylane.com/findamate/conven3x.jpg",
+      "imageUrl": "/data/images/img_95.jpg",
+      "title": "Asset 95",
+      "caption": "Historic Image 52",
+      "estimatedYear": 1908
+    },
+    "civicData": {
+      "zoning": "R-2 Multi-Family",
+      "floodZone": "Zone AE (High Risk)",
+      "historicRegistry": "Not Listed",
+      "lotSizeSqFt": 6699,
+      "lastAssessmentValue": 631874
+    },
+    "permits": [
+      {
+        "date": "2013-03-05",
+        "type": "Plumbing Repair",
+        "status": "Approved"
+      },
+      {
+        "date": "2008-09-14",
+        "type": "Plumbing Repair",
+        "status": "Pending"
+      }
+    ]
+  },
+  {
+    "id": "ml_96",
+    "address": "813 Frederick Ave, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://www.stjosephmemorylane.com/findamate/bode.jpg",
+      "imageUrl": "/data/images/img_96.jpg",
+      "title": "Asset 96",
+      "caption": "Historic Image 56",
+      "estimatedYear": 1929
+    },
+    "civicData": {
+      "zoning": "R-2 Multi-Family",
+      "floodZone": "Zone AH (High Risk)",
+      "historicRegistry": "Not Listed",
+      "lotSizeSqFt": 2944,
+      "lastAssessmentValue": 533441
+    },
+    "permits": []
+  },
+  {
+    "id": "ml_97",
+    "address": "359 Francis St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://www.stjosephmemorylane.com/findamate/bishoplbx.jpg",
+      "imageUrl": "/data/images/img_97.jpg",
+      "title": "Asset 97",
+      "caption": "Historic Image 58",
+      "estimatedYear": 1915
+    },
+    "civicData": {
+      "zoning": "R-2 Multi-Family",
+      "floodZone": "Zone X (Minimal Risk)",
+      "historicRegistry": "National Register",
+      "lotSizeSqFt": 11803,
+      "lastAssessmentValue": 1338817
+    },
+    "permits": [
+      {
+        "date": "1998-11-27",
+        "type": "Roof Replacement",
+        "status": "Approved"
+      }
+    ]
+  },
+  {
+    "id": "ml_98",
+    "address": "625 St Joseph Ave, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://www.stjosephmemorylane.com/findamate/menubutton.jpg",
+      "imageUrl": "/data/images/img_98.jpg",
+      "title": "Asset 98",
+      "caption": "Return To St Joseph Memory Lane Main Menu",
+      "estimatedYear": 1905
+    },
+    "civicData": {
+      "zoning": "R-2 Multi-Family",
+      "floodZone": "Zone AE (High Risk)",
+      "historicRegistry": "Eligible for Register",
+      "lotSizeSqFt": 8293,
+      "lastAssessmentValue": 1278749
+    },
+    "permits": [
+      {
+        "date": "2024-11-20",
+        "type": "Electrical Upgrade",
+        "status": "Closed"
+      },
+      {
+        "date": "2017-12-27",
+        "type": "Roof Replacement",
+        "status": "Pending"
+      },
+      {
+        "date": "1997-07-20",
+        "type": "Roof Replacement",
+        "status": "Pending"
+      }
+    ]
+  },
+  {
+    "id": "ml_99",
+    "address": "203 Syllamalash St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://www.stjosephmemorylane.com/aerials/aerialsbanner.jpg",
+      "imageUrl": "/data/images/img_99.jpg",
+      "title": "Asset 99",
+      "caption": "Historic Image 0",
+      "estimatedYear": 1903
+    },
+    "civicData": {
+      "zoning": "C-2 Downtown Commercial",
+      "floodZone": "Zone AH (High Risk)",
+      "historicRegistry": "Not Listed",
+      "lotSizeSqFt": 7923,
+      "lastAssessmentValue": 231946
+    },
+    "permits": [
+      {
+        "date": "2014-02-09",
+        "type": "HVAC Installation",
+        "status": "Approved"
+      },
+      {
+        "date": "2005-10-22",
+        "type": "Facade Restoration",
+        "status": "Pending"
+      },
+      {
+        "date": "2001-10-17",
+        "type": "Interior Demolition",
+        "status": "Approved"
+      }
+    ]
+  },
+  {
+    "id": "ml_100",
+    "address": "872 King Hill Ave, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://www.stjosephmemorylane.com/aerials/1930viewx.jpg",
+      "imageUrl": "/data/images/img_100.jpg",
+      "title": "Asset 100",
+      "caption": "Historic Image 2",
+      "estimatedYear": 1913
+    },
+    "civicData": {
+      "zoning": "M-1 Light Industrial",
+      "floodZone": "Zone X (Minimal Risk)",
+      "historicRegistry": "Local Landmark",
+      "lotSizeSqFt": 8124,
+      "lastAssessmentValue": 1186526
+    },
+    "permits": [
+      {
+        "date": "2010-04-14",
+        "type": "Roof Replacement",
+        "status": "Approved"
+      },
+      {
+        "date": "2001-11-21",
+        "type": "Interior Demolition",
+        "status": "Approved"
+      },
+      {
+        "date": "1996-06-09",
+        "type": "Facade Restoration",
+        "status": "Approved"
+      }
+    ]
+  },
+  {
+    "id": "ml_101",
+    "address": "957 Frederick Ave, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://www.stjosephmemorylane.com/aerials/1953mwscx.jpg",
+      "imageUrl": "/data/images/img_101.jpg",
+      "title": "Asset 101",
+      "caption": "Historic Image 3",
+      "estimatedYear": 1918
+    },
+    "civicData": {
+      "zoning": "R-2 Multi-Family",
+      "floodZone": "Zone AH (High Risk)",
+      "historicRegistry": "Not Listed",
+      "lotSizeSqFt": 8516,
+      "lastAssessmentValue": 83444
+    },
+    "permits": [
+      {
+        "date": "2003-07-15",
+        "type": "Roof Replacement",
+        "status": "Pending"
+      }
+    ]
+  },
+  {
+    "id": "ml_102",
+    "address": "140 Syllamalash St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://www.stjosephmemorylane.com/aerials/1952rosecranx.jpg",
+      "imageUrl": "/data/images/img_102.jpg",
+      "title": "Asset 102",
+      "caption": "Historic Image 4",
+      "estimatedYear": 1946
+    },
+    "civicData": {
+      "zoning": "R-1 Single Family",
+      "floodZone": "Zone X (Minimal Risk)",
+      "historicRegistry": "National Register",
+      "lotSizeSqFt": 9937,
+      "lastAssessmentValue": 209418
+    },
+    "permits": [
+      {
+        "date": "2003-10-02",
+        "type": "Electrical Upgrade",
+        "status": "Pending"
+      },
+      {
+        "date": "2000-10-25",
+        "type": "Facade Restoration",
+        "status": "Pending"
+      }
+    ]
+  },
+  {
+    "id": "ml_103",
+    "address": "940 Robidoux St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://www.stjosephmemorylane.com/aerials/oldcentralx.jpg",
+      "imageUrl": "/data/images/img_103.jpg",
+      "title": "Asset 103",
+      "caption": "Historic Image 5",
+      "estimatedYear": 1927
+    },
+    "civicData": {
+      "zoning": "C-3 Commercial District",
+      "floodZone": "Zone AE (High Risk)",
+      "historicRegistry": "National Register",
+      "lotSizeSqFt": 2554,
+      "lastAssessmentValue": 1386234
+    },
+    "permits": [
+      {
+        "date": "2017-07-05",
+        "type": "Electrical Upgrade",
+        "status": "Approved"
+      },
+      {
+        "date": "1997-06-21",
+        "type": "Plumbing Repair",
+        "status": "Pending"
+      }
+    ]
+  },
+  {
+    "id": "ml_104",
+    "address": "1379 Felix St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://www.stjosephmemorylane.com/aerials/bhs3x.jpg",
+      "imageUrl": "/data/images/img_104.jpg",
+      "title": "Asset 104",
+      "caption": "Historic Image 6",
+      "estimatedYear": 1958
+    },
+    "civicData": {
+      "zoning": "R-1 Single Family",
+      "floodZone": "Zone AE (High Risk)",
+      "historicRegistry": "Eligible for Register",
+      "lotSizeSqFt": 9483,
+      "lastAssessmentValue": 815845
+    },
+    "permits": [
+      {
+        "date": "2025-03-27",
+        "type": "HVAC Installation",
+        "status": "Approved"
+      },
+      {
+        "date": "2012-09-21",
+        "type": "Plumbing Repair",
+        "status": "Approved"
+      },
+      {
+        "date": "2000-08-14",
+        "type": "HVAC Installation",
+        "status": "Approved"
+      },
+      {
+        "date": "1999-07-16",
+        "type": "Interior Demolition",
+        "status": "Closed"
+      }
+    ]
+  },
+  {
+    "id": "ml_105",
+    "address": "379 Francis St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://www.stjosephmemorylane.com/aerials/bhs10x.jpg",
+      "imageUrl": "/data/images/img_105.jpg",
+      "title": "Asset 105",
+      "caption": "Historic Image 7",
+      "estimatedYear": 1948
+    },
+    "civicData": {
+      "zoning": "C-3 Commercial District",
+      "floodZone": "Zone X (Minimal Risk)",
+      "historicRegistry": "National Register",
+      "lotSizeSqFt": 4519,
+      "lastAssessmentValue": 882045
+    },
+    "permits": []
+  },
+  {
+    "id": "ml_106",
+    "address": "429 Frederick Ave, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://www.stjosephmemorylane.com/aerials/1907sstjoex.jpg",
+      "imageUrl": "/data/images/img_106.jpg",
+      "title": "Asset 106",
+      "caption": "Historic Image 8",
+      "estimatedYear": 1896
+    },
+    "civicData": {
+      "zoning": "M-1 Light Industrial",
+      "floodZone": "Zone AH (High Risk)",
+      "historicRegistry": "Not Listed",
+      "lotSizeSqFt": 9452,
+      "lastAssessmentValue": 893629
+    },
+    "permits": [
+      {
+        "date": "2020-12-09",
+        "type": "Roof Replacement",
+        "status": "Pending"
+      },
+      {
+        "date": "2016-11-10",
+        "type": "Facade Restoration",
+        "status": "Pending"
+      },
+      {
+        "date": "2013-09-23",
+        "type": "Interior Demolition",
+        "status": "Approved"
+      },
+      {
+        "date": "2013-03-23",
+        "type": "Facade Restoration",
+        "status": "Pending"
+      }
+    ]
+  },
+  {
+    "id": "ml_107",
+    "address": "318 Frederick Ave, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://www.stjosephmemorylane.com/aerials/centralsjx.jpg",
+      "imageUrl": "/data/images/img_107.jpg",
+      "title": "Asset 107",
+      "caption": "Historic Image 9",
+      "estimatedYear": 1937
+    },
+    "civicData": {
+      "zoning": "C-2 Downtown Commercial",
+      "floodZone": "Zone AH (High Risk)",
+      "historicRegistry": "Eligible for Register",
+      "lotSizeSqFt": 10452,
+      "lastAssessmentValue": 134593
+    },
+    "permits": [
+      {
+        "date": "2015-09-15",
+        "type": "Facade Restoration",
+        "status": "Approved"
+      }
+    ]
+  },
+  {
+    "id": "ml_108",
+    "address": "1484 St Joseph Ave, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://www.stjosephmemorylane.com/aerials/cbqaerialx.jpg",
+      "imageUrl": "/data/images/img_108.jpg",
+      "title": "Asset 108",
+      "caption": "Historic Image 10",
+      "estimatedYear": 1913
+    },
+    "civicData": {
+      "zoning": "M-1 Light Industrial",
+      "floodZone": "Zone AH (High Risk)",
+      "historicRegistry": "Not Listed",
+      "lotSizeSqFt": 10118,
+      "lastAssessmentValue": 452363
+    },
+    "permits": [
+      {
+        "date": "1996-11-14",
+        "type": "Plumbing Repair",
+        "status": "Approved"
+      }
+    ]
+  },
+  {
+    "id": "ml_109",
+    "address": "269 Francis St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://www.stjosephmemorylane.com/aerials/upyardsx.jpg",
+      "imageUrl": "/data/images/img_109.jpg",
+      "title": "Asset 109",
+      "caption": "Historic Image 11",
+      "estimatedYear": 1890
+    },
+    "civicData": {
+      "zoning": "R-1 Single Family",
+      "floodZone": "Zone X (Minimal Risk)",
+      "historicRegistry": "National Register",
+      "lotSizeSqFt": 10373,
+      "lastAssessmentValue": 420805
+    },
+    "permits": [
+      {
+        "date": "2024-09-13",
+        "type": "Roof Replacement",
+        "status": "Pending"
+      },
+      {
+        "date": "2021-02-15",
+        "type": "Roof Replacement",
+        "status": "Approved"
+      },
+      {
+        "date": "2014-03-13",
+        "type": "Plumbing Repair",
+        "status": "Approved"
+      },
+      {
+        "date": "1995-03-09",
+        "type": "Facade Restoration",
+        "status": "Approved"
+      }
+    ]
+  },
+  {
+    "id": "ml_110",
+    "address": "1276 Frederick Ave, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://www.stjosephmemorylane.com/aerials/1941riverx.jpg",
+      "imageUrl": "/data/images/img_110.jpg",
+      "title": "Asset 110",
+      "caption": "Historic Image 12",
+      "estimatedYear": 1899
+    },
+    "civicData": {
+      "zoning": "R-2 Multi-Family",
+      "floodZone": "Zone X (Minimal Risk)",
+      "historicRegistry": "Not Listed",
+      "lotSizeSqFt": 5566,
+      "lastAssessmentValue": 454566
+    },
+    "permits": [
+      {
+        "date": "2006-02-21",
+        "type": "Electrical Upgrade",
+        "status": "Approved"
+      },
+      {
+        "date": "2003-04-21",
+        "type": "Facade Restoration",
+        "status": "Approved"
+      }
+    ]
+  },
+  {
+    "id": "ml_111",
+    "address": "177 Jule St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://www.stjosephmemorylane.com/aerials/1941river2x.jpg",
+      "imageUrl": "/data/images/img_111.jpg",
+      "title": "Asset 111",
+      "caption": "Historic Image 13",
+      "estimatedYear": 1921
+    },
+    "civicData": {
+      "zoning": "R-1 Single Family",
+      "floodZone": "Zone AE (High Risk)",
+      "historicRegistry": "Local Landmark",
+      "lotSizeSqFt": 11660,
+      "lastAssessmentValue": 710697
+    },
+    "permits": [
+      {
+        "date": "2020-06-25",
+        "type": "Electrical Upgrade",
+        "status": "Approved"
+      },
+      {
+        "date": "2009-08-04",
+        "type": "Interior Demolition",
+        "status": "Approved"
+      }
+    ]
+  },
+  {
+    "id": "ml_112",
+    "address": "837 Felix St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://www.stjosephmemorylane.com/aerials/1941river3x.jpg",
+      "imageUrl": "/data/images/img_112.jpg",
+      "title": "Asset 112",
+      "caption": "Historic Image 14",
+      "estimatedYear": 1921
+    },
+    "civicData": {
+      "zoning": "C-2 Downtown Commercial",
+      "floodZone": "Zone X (Minimal Risk)",
+      "historicRegistry": "National Register",
+      "lotSizeSqFt": 3399,
+      "lastAssessmentValue": 1408440
+    },
+    "permits": [
+      {
+        "date": "2014-07-18",
+        "type": "Interior Demolition",
+        "status": "Closed"
+      },
+      {
+        "date": "2011-10-18",
+        "type": "HVAC Installation",
+        "status": "Approved"
+      },
+      {
+        "date": "2010-12-14",
+        "type": "Interior Demolition",
+        "status": "Approved"
+      },
+      {
+        "date": "1995-01-06",
+        "type": "Electrical Upgrade",
+        "status": "Approved"
+      }
+    ]
+  },
+  {
+    "id": "ml_113",
+    "address": "821 St Joseph Ave, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://www.stjosephmemorylane.com/aerials/1941river4x.jpg",
+      "imageUrl": "/data/images/img_113.jpg",
+      "title": "Asset 113",
+      "caption": "Historic Image 15",
+      "estimatedYear": 1960
+    },
+    "civicData": {
+      "zoning": "R-1 Single Family",
+      "floodZone": "Zone X (Minimal Risk)",
+      "historicRegistry": "Eligible for Register",
+      "lotSizeSqFt": 2803,
+      "lastAssessmentValue": 638150
+    },
+    "permits": [
+      {
+        "date": "2015-06-15",
+        "type": "HVAC Installation",
+        "status": "Approved"
+      },
+      {
+        "date": "2008-11-17",
+        "type": "Plumbing Repair",
+        "status": "Closed"
+      },
+      {
+        "date": "1998-07-24",
+        "type": "HVAC Installation",
+        "status": "Pending"
+      }
+    ]
+  },
+  {
+    "id": "ml_114",
+    "address": "1279 Robidoux St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://www.stjosephmemorylane.com/aerials/downtown5x.jpg",
+      "imageUrl": "/data/images/img_114.jpg",
+      "title": "Asset 114",
+      "caption": "Historic Image 16",
+      "estimatedYear": 1913
+    },
+    "civicData": {
+      "zoning": "R-1 Single Family",
+      "floodZone": "Zone X (Minimal Risk)",
+      "historicRegistry": "Not Listed",
+      "lotSizeSqFt": 10961,
+      "lastAssessmentValue": 504534
+    },
+    "permits": [
+      {
+        "date": "2023-10-06",
+        "type": "Plumbing Repair",
+        "status": "Closed"
+      },
+      {
+        "date": "2009-12-18",
+        "type": "Facade Restoration",
+        "status": "Pending"
+      }
+    ]
+  },
+  {
+    "id": "ml_115",
+    "address": "906 Syllamalash St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://www.stjosephmemorylane.com/aerials/downtown6x.jpg",
+      "imageUrl": "/data/images/img_115.jpg",
+      "title": "Asset 115",
+      "caption": "Historic Image 17",
+      "estimatedYear": 1901
+    },
+    "civicData": {
+      "zoning": "R-1 Single Family",
+      "floodZone": "Zone X (Minimal Risk)",
+      "historicRegistry": "Not Listed",
+      "lotSizeSqFt": 12800,
+      "lastAssessmentValue": 1313378
+    },
+    "permits": [
+      {
+        "date": "2020-04-12",
+        "type": "Plumbing Repair",
+        "status": "Pending"
+      },
+      {
+        "date": "2004-06-14",
+        "type": "Interior Demolition",
+        "status": "Approved"
+      }
+    ]
+  },
+  {
+    "id": "ml_116",
+    "address": "1169 Felix St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://www.stjosephmemorylane.com/aerials/river7x.jpg",
+      "imageUrl": "/data/images/img_116.jpg",
+      "title": "Asset 116",
+      "caption": "Historic Image 18",
+      "estimatedYear": 1917
+    },
+    "civicData": {
+      "zoning": "M-1 Light Industrial",
+      "floodZone": "Zone AE (High Risk)",
+      "historicRegistry": "Eligible for Register",
+      "lotSizeSqFt": 4277,
+      "lastAssessmentValue": 114448
+    },
+    "permits": [
+      {
+        "date": "1998-02-21",
+        "type": "Roof Replacement",
+        "status": "Pending"
+      }
+    ]
+  },
+  {
+    "id": "ml_117",
+    "address": "1062 Felix St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://www.stjosephmemorylane.com/aerials/downtown7x.jpg",
+      "imageUrl": "/data/images/img_117.jpg",
+      "title": "Asset 117",
+      "caption": "Historic Image 19",
+      "estimatedYear": 1894
+    },
+    "civicData": {
+      "zoning": "C-3 Commercial District",
+      "floodZone": "Zone AE (High Risk)",
+      "historicRegistry": "National Register",
+      "lotSizeSqFt": 5369,
+      "lastAssessmentValue": 1209101
+    },
+    "permits": [
+      {
+        "date": "2016-07-14",
+        "type": "Plumbing Repair",
+        "status": "Approved"
+      },
+      {
+        "date": "2002-10-09",
+        "type": "Roof Replacement",
+        "status": "Closed"
+      }
+    ]
+  },
+  {
+    "id": "ml_118",
+    "address": "1038 Faraon St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://www.stjosephmemorylane.com/aerials/noyesbaseballx.jpg",
+      "imageUrl": "/data/images/img_118.jpg",
+      "title": "Asset 118",
+      "caption": "Historic Image 20",
+      "estimatedYear": 1941
+    },
+    "civicData": {
+      "zoning": "C-3 Commercial District",
+      "floodZone": "Zone AE (High Risk)",
+      "historicRegistry": "National Register",
+      "lotSizeSqFt": 8977,
+      "lastAssessmentValue": 404782
+    },
+    "permits": [
+      {
+        "date": "2017-04-05",
+        "type": "HVAC Installation",
+        "status": "Closed"
+      },
+      {
+        "date": "2003-09-15",
+        "type": "Interior Demolition",
+        "status": "Approved"
+      }
+    ]
+  },
+  {
+    "id": "ml_119",
+    "address": "1280 Francis St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://www.stjosephmemorylane.com/aerials/noyesbaseball2x.jpg",
+      "imageUrl": "/data/images/img_119.jpg",
+      "title": "Asset 119",
+      "caption": "Historic Image 21",
+      "estimatedYear": 1955
+    },
+    "civicData": {
+      "zoning": "C-3 Commercial District",
+      "floodZone": "Zone AH (High Risk)",
+      "historicRegistry": "Eligible for Register",
+      "lotSizeSqFt": 5664,
+      "lastAssessmentValue": 364510
+    },
+    "permits": [
+      {
+        "date": "2022-04-16",
+        "type": "Interior Demolition",
+        "status": "Approved"
+      },
+      {
+        "date": "2015-06-03",
+        "type": "Electrical Upgrade",
+        "status": "Closed"
+      }
+    ]
+  },
+  {
+    "id": "ml_120",
+    "address": "337 King Hill Ave, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://www.stjosephmemorylane.com/aerials/kpairx.jpg",
+      "imageUrl": "/data/images/img_120.jpg",
+      "title": "Asset 120",
+      "caption": "Historic Image 22",
+      "estimatedYear": 1917
+    },
+    "civicData": {
+      "zoning": "R-1 Single Family",
+      "floodZone": "Zone X (Minimal Risk)",
+      "historicRegistry": "Eligible for Register",
+      "lotSizeSqFt": 4237,
+      "lastAssessmentValue": 1157273
+    },
+    "permits": [
+      {
+        "date": "2025-09-08",
+        "type": "HVAC Installation",
+        "status": "Approved"
+      },
+      {
+        "date": "2012-07-07",
+        "type": "Electrical Upgrade",
+        "status": "Pending"
+      },
+      {
+        "date": "2009-04-17",
+        "type": "Electrical Upgrade",
+        "status": "Closed"
+      },
+      {
+        "date": "2005-06-12",
+        "type": "Roof Replacement",
+        "status": "Closed"
+      }
+    ]
+  },
+  {
+    "id": "ml_121",
+    "address": "840 Francis St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://www.stjosephmemorylane.com/aerials/kpair2x.jpg",
+      "imageUrl": "/data/images/img_121.jpg",
+      "title": "Asset 121",
+      "caption": "Historic Image 23",
+      "estimatedYear": 1895
+    },
+    "civicData": {
+      "zoning": "M-1 Light Industrial",
+      "floodZone": "Zone X (Minimal Risk)",
+      "historicRegistry": "Local Landmark",
+      "lotSizeSqFt": 14206,
+      "lastAssessmentValue": 1416062
+    },
+    "permits": [
+      {
+        "date": "2024-05-22",
+        "type": "Electrical Upgrade",
+        "status": "Approved"
+      },
+      {
+        "date": "2003-05-17",
+        "type": "Facade Restoration",
+        "status": "Approved"
+      },
+      {
+        "date": "2002-07-11",
+        "type": "Plumbing Repair",
+        "status": "Approved"
+      }
+    ]
+  },
+  {
+    "id": "ml_122",
+    "address": "509 Edmond St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://www.stjosephmemorylane.com/aerials/robertsx.jpg",
+      "imageUrl": "/data/images/img_122.jpg",
+      "title": "Asset 122",
+      "caption": "Historic Image 24",
+      "estimatedYear": 1951
+    },
+    "civicData": {
+      "zoning": "R-1 Single Family",
+      "floodZone": "Zone X (Minimal Risk)",
+      "historicRegistry": "Eligible for Register",
+      "lotSizeSqFt": 3698,
+      "lastAssessmentValue": 1126189
+    },
+    "permits": [
+      {
+        "date": "2015-09-08",
+        "type": "Facade Restoration",
+        "status": "Closed"
+      },
+      {
+        "date": "2009-06-11",
+        "type": "Plumbing Repair",
+        "status": "Closed"
+      },
+      {
+        "date": "2003-04-25",
+        "type": "HVAC Installation",
+        "status": "Pending"
+      },
+      {
+        "date": "1997-08-17",
+        "type": "Plumbing Repair",
+        "status": "Approved"
+      }
+    ]
+  },
+  {
+    "id": "ml_123",
+    "address": "1316 Felix St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://www.stjosephmemorylane.com/aerials/postofficeviewx.jpg",
+      "imageUrl": "/data/images/img_123.jpg",
+      "title": "Asset 123",
+      "caption": "Historic Image 25",
+      "estimatedYear": 1958
+    },
+    "civicData": {
+      "zoning": "C-3 Commercial District",
+      "floodZone": "Zone X (Minimal Risk)",
+      "historicRegistry": "Local Landmark",
+      "lotSizeSqFt": 10271,
+      "lastAssessmentValue": 305352
+    },
+    "permits": [
+      {
+        "date": "2018-11-16",
+        "type": "Plumbing Repair",
+        "status": "Pending"
+      },
+      {
+        "date": "1997-08-28",
+        "type": "Interior Demolition",
+        "status": "Pending"
+      },
+      {
+        "date": "1997-04-11",
+        "type": "Interior Demolition",
+        "status": "Closed"
+      },
+      {
+        "date": "1996-06-23",
+        "type": "Interior Demolition",
+        "status": "Closed"
+      }
+    ]
+  },
+  {
+    "id": "ml_124",
+    "address": "953 Jule St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://www.stjosephmemorylane.com/aerials/river2x.jpg",
+      "imageUrl": "/data/images/img_124.jpg",
+      "title": "Asset 124",
+      "caption": "Historic Image 26",
+      "estimatedYear": 1902
+    },
+    "civicData": {
+      "zoning": "C-2 Downtown Commercial",
+      "floodZone": "Zone AE (High Risk)",
+      "historicRegistry": "National Register",
+      "lotSizeSqFt": 4122,
+      "lastAssessmentValue": 707219
+    },
+    "permits": [
+      {
+        "date": "2021-01-05",
+        "type": "Electrical Upgrade",
+        "status": "Approved"
+      },
+      {
+        "date": "2000-07-02",
+        "type": "Roof Replacement",
+        "status": "Pending"
+      },
+      {
+        "date": "1997-04-09",
+        "type": "Plumbing Repair",
+        "status": "Pending"
+      },
+      {
+        "date": "1995-07-09",
+        "type": "Roof Replacement",
+        "status": "Closed"
+      }
+    ]
+  },
+  {
+    "id": "ml_125",
+    "address": "642 Felix St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://www.stjosephmemorylane.com/aerials/river3x.jpg",
+      "imageUrl": "/data/images/img_125.jpg",
+      "title": "Asset 125",
+      "caption": "Historic Image 27",
+      "estimatedYear": 1920
+    },
+    "civicData": {
+      "zoning": "M-1 Light Industrial",
+      "floodZone": "Zone X (Minimal Risk)",
+      "historicRegistry": "National Register",
+      "lotSizeSqFt": 10662,
+      "lastAssessmentValue": 1164217
+    },
+    "permits": [
+      {
+        "date": "2008-01-20",
+        "type": "Roof Replacement",
+        "status": "Closed"
+      }
+    ]
+  },
+  {
+    "id": "ml_126",
+    "address": "1227 Robidoux St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://www.stjosephmemorylane.com/aerials/river1x.jpg",
+      "imageUrl": "/data/images/img_126.jpg",
+      "title": "Asset 126",
+      "caption": "Historic Image 28",
+      "estimatedYear": 1940
+    },
+    "civicData": {
+      "zoning": "C-3 Commercial District",
+      "floodZone": "Zone AE (High Risk)",
+      "historicRegistry": "Not Listed",
+      "lotSizeSqFt": 4436,
+      "lastAssessmentValue": 195333
+    },
+    "permits": [
+      {
+        "date": "2025-05-28",
+        "type": "Roof Replacement",
+        "status": "Closed"
+      },
+      {
+        "date": "2024-12-04",
+        "type": "Electrical Upgrade",
+        "status": "Approved"
+      },
+      {
+        "date": "2010-10-08",
+        "type": "Roof Replacement",
+        "status": "Pending"
+      }
+    ]
+  },
+  {
+    "id": "ml_127",
+    "address": "791 St Joseph Ave, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://www.stjosephmemorylane.com/aerials/river4x.jpg",
+      "imageUrl": "/data/images/img_127.jpg",
+      "title": "Asset 127",
+      "caption": "Historic Image 29",
+      "estimatedYear": 1945
+    },
+    "civicData": {
+      "zoning": "R-1 Single Family",
+      "floodZone": "Zone AE (High Risk)",
+      "historicRegistry": "Local Landmark",
+      "lotSizeSqFt": 3202,
+      "lastAssessmentValue": 958927
+    },
+    "permits": []
+  },
+  {
+    "id": "ml_128",
+    "address": "794 Robidoux St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://www.stjosephmemorylane.com/aerials/river5x.jpg",
+      "imageUrl": "/data/images/img_128.jpg",
+      "title": "Asset 128",
+      "caption": "Historic Image 30",
+      "estimatedYear": 1955
+    },
+    "civicData": {
+      "zoning": "R-2 Multi-Family",
+      "floodZone": "Zone AE (High Risk)",
+      "historicRegistry": "Eligible for Register",
+      "lotSizeSqFt": 13876,
+      "lastAssessmentValue": 427624
+    },
+    "permits": [
+      {
+        "date": "2018-11-16",
+        "type": "Roof Replacement",
+        "status": "Pending"
+      },
+      {
+        "date": "2015-09-27",
+        "type": "Plumbing Repair",
+        "status": "Approved"
+      },
+      {
+        "date": "2007-10-08",
+        "type": "Roof Replacement",
+        "status": "Closed"
+      },
+      {
+        "date": "1997-04-15",
+        "type": "Plumbing Repair",
+        "status": "Approved"
+      }
+    ]
+  },
+  {
+    "id": "ml_129",
+    "address": "944 Robidoux St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://www.stjosephmemorylane.com/aerials/river6x.jpg",
+      "imageUrl": "/data/images/img_129.jpg",
+      "title": "Asset 129",
+      "caption": "Historic Image 31",
+      "estimatedYear": 1939
+    },
+    "civicData": {
+      "zoning": "R-1 Single Family",
+      "floodZone": "Zone X (Minimal Risk)",
+      "historicRegistry": "Eligible for Register",
+      "lotSizeSqFt": 4642,
+      "lastAssessmentValue": 76163
+    },
+    "permits": []
+  },
+  {
+    "id": "ml_130",
+    "address": "812 Jule St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://www.stjosephmemorylane.com/aerials/wire6x.jpg",
+      "imageUrl": "/data/images/img_130.jpg",
+      "title": "Asset 130",
+      "caption": "Historic Image 32",
+      "estimatedYear": 1949
+    },
+    "civicData": {
+      "zoning": "R-1 Single Family",
+      "floodZone": "Zone X (Minimal Risk)",
+      "historicRegistry": "Not Listed",
+      "lotSizeSqFt": 13933,
+      "lastAssessmentValue": 223532
+    },
+    "permits": []
+  },
+  {
+    "id": "ml_131",
+    "address": "978 Faraon St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://www.stjosephmemorylane.com/aerials/wire7x.jpg",
+      "imageUrl": "/data/images/img_131.jpg",
+      "title": "Asset 131",
+      "caption": "Historic Image 33",
+      "estimatedYear": 1936
+    },
+    "civicData": {
+      "zoning": "R-1 Single Family",
+      "floodZone": "Zone X (Minimal Risk)",
+      "historicRegistry": "National Register",
+      "lotSizeSqFt": 4351,
+      "lastAssessmentValue": 168046
+    },
+    "permits": [
+      {
+        "date": "2024-04-19",
+        "type": "HVAC Installation",
+        "status": "Pending"
+      },
+      {
+        "date": "2008-06-28",
+        "type": "Electrical Upgrade",
+        "status": "Approved"
+      },
+      {
+        "date": "2001-10-11",
+        "type": "Facade Restoration",
+        "status": "Pending"
+      }
+    ]
+  },
+  {
+    "id": "ml_132",
+    "address": "331 Syllamalash St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://www.stjosephmemorylane.com/aerials/sjlp2x.jpg",
+      "imageUrl": "/data/images/img_132.jpg",
+      "title": "Asset 132",
+      "caption": "Historic Image 34",
+      "estimatedYear": 1958
+    },
+    "civicData": {
+      "zoning": "C-3 Commercial District",
+      "floodZone": "Zone X (Minimal Risk)",
+      "historicRegistry": "Local Landmark",
+      "lotSizeSqFt": 5252,
+      "lastAssessmentValue": 623501
+    },
+    "permits": [
+      {
+        "date": "2006-09-03",
+        "type": "Plumbing Repair",
+        "status": "Approved"
+      },
+      {
+        "date": "2000-01-23",
+        "type": "Plumbing Repair",
+        "status": "Approved"
+      },
+      {
+        "date": "1995-09-11",
+        "type": "Interior Demolition",
+        "status": "Approved"
+      }
+    ]
+  },
+  {
+    "id": "ml_133",
+    "address": "1443 Felix St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://www.stjosephmemorylane.com/aerials/1945kinghillx.jpg",
+      "imageUrl": "/data/images/img_133.jpg",
+      "title": "Asset 133",
+      "caption": "Historic Image 35",
+      "estimatedYear": 1898
+    },
+    "civicData": {
+      "zoning": "M-1 Light Industrial",
+      "floodZone": "Zone AH (High Risk)",
+      "historicRegistry": "National Register",
+      "lotSizeSqFt": 12474,
+      "lastAssessmentValue": 235690
+    },
+    "permits": [
+      {
+        "date": "2016-12-20",
+        "type": "HVAC Installation",
+        "status": "Approved"
+      }
+    ]
+  },
+  {
+    "id": "ml_134",
+    "address": "283 St Joseph Ave, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://www.stjosephmemorylane.com/aerials/down1x.jpg",
+      "imageUrl": "/data/images/img_134.jpg",
+      "title": "Asset 134",
+      "caption": "Historic Image 36",
+      "estimatedYear": 1914
+    },
+    "civicData": {
+      "zoning": "M-1 Light Industrial",
+      "floodZone": "Zone X (Minimal Risk)",
+      "historicRegistry": "National Register",
+      "lotSizeSqFt": 13571,
+      "lastAssessmentValue": 951358
+    },
+    "permits": [
+      {
+        "date": "1996-05-13",
+        "type": "HVAC Installation",
+        "status": "Approved"
+      }
+    ]
+  },
+  {
+    "id": "ml_135",
+    "address": "1395 Syllamalash St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://www.stjosephmemorylane.com/aerials/bcchousex.jpg",
+      "imageUrl": "/data/images/img_135.jpg",
+      "title": "Asset 135",
+      "caption": "Historic Image 37",
+      "estimatedYear": 1945
+    },
+    "civicData": {
+      "zoning": "R-2 Multi-Family",
+      "floodZone": "Zone X (Minimal Risk)",
+      "historicRegistry": "Local Landmark",
+      "lotSizeSqFt": 3583,
+      "lastAssessmentValue": 894494
+    },
+    "permits": []
+  },
+  {
+    "id": "ml_136",
+    "address": "117 Felix St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://www.stjosephmemorylane.com/aerials/anchorx.jpg",
+      "imageUrl": "/data/images/img_136.jpg",
+      "title": "Asset 136",
+      "caption": "Historic Image 38",
+      "estimatedYear": 1903
+    },
+    "civicData": {
+      "zoning": "R-2 Multi-Family",
+      "floodZone": "Zone X (Minimal Risk)",
+      "historicRegistry": "Eligible for Register",
+      "lotSizeSqFt": 2707,
+      "lastAssessmentValue": 1123871
+    },
+    "permits": [
+      {
+        "date": "2024-12-21",
+        "type": "Roof Replacement",
+        "status": "Pending"
+      },
+      {
+        "date": "2019-03-19",
+        "type": "Plumbing Repair",
+        "status": "Approved"
+      },
+      {
+        "date": "2015-05-10",
+        "type": "Interior Demolition",
+        "status": "Approved"
+      },
+      {
+        "date": "1999-12-12",
+        "type": "Interior Demolition",
+        "status": "Pending"
+      }
+    ]
+  },
+  {
+    "id": "ml_137",
+    "address": "343 Robidoux St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://www.stjosephmemorylane.com/aerials/anchor2x.jpg",
+      "imageUrl": "/data/images/img_137.jpg",
+      "title": "Asset 137",
+      "caption": "Historic Image 39",
+      "estimatedYear": 1952
+    },
+    "civicData": {
+      "zoning": "C-3 Commercial District",
+      "floodZone": "Zone X (Minimal Risk)",
+      "historicRegistry": "Eligible for Register",
+      "lotSizeSqFt": 5653,
+      "lastAssessmentValue": 126042
+    },
+    "permits": [
+      {
+        "date": "2018-02-18",
+        "type": "Electrical Upgrade",
+        "status": "Pending"
+      },
+      {
+        "date": "2009-02-22",
+        "type": "Plumbing Repair",
+        "status": "Closed"
+      }
+    ]
+  },
+  {
+    "id": "ml_138",
+    "address": "628 Felix St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://www.stjosephmemorylane.com/aerials/anchor3x.jpg",
+      "imageUrl": "/data/images/img_138.jpg",
+      "title": "Asset 138",
+      "caption": "Historic Image 40",
+      "estimatedYear": 1896
+    },
+    "civicData": {
+      "zoning": "R-1 Single Family",
+      "floodZone": "Zone AH (High Risk)",
+      "historicRegistry": "Local Landmark",
+      "lotSizeSqFt": 2585,
+      "lastAssessmentValue": 1132470
+    },
+    "permits": [
+      {
+        "date": "2010-02-21",
+        "type": "Roof Replacement",
+        "status": "Pending"
+      },
+      {
+        "date": "2007-01-22",
+        "type": "Roof Replacement",
+        "status": "Closed"
+      }
+    ]
+  },
+  {
+    "id": "ml_139",
+    "address": "1172 Robidoux St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://www.stjosephmemorylane.com/aerials/anchor4x.jpg",
+      "imageUrl": "/data/images/img_139.jpg",
+      "title": "Asset 139",
+      "caption": "Historic Image 41",
+      "estimatedYear": 1926
+    },
+    "civicData": {
+      "zoning": "M-1 Light Industrial",
+      "floodZone": "Zone X (Minimal Risk)",
+      "historicRegistry": "National Register",
+      "lotSizeSqFt": 8037,
+      "lastAssessmentValue": 1074197
+    },
+    "permits": []
+  },
+  {
+    "id": "ml_140",
+    "address": "213 Francis St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://www.stjosephmemorylane.com/aerials/1947contraryx.jpg",
+      "imageUrl": "/data/images/img_140.jpg",
+      "title": "Asset 140",
+      "caption": "Historic Image 42",
+      "estimatedYear": 1923
+    },
+    "civicData": {
+      "zoning": "C-3 Commercial District",
+      "floodZone": "Zone X (Minimal Risk)",
+      "historicRegistry": "Eligible for Register",
+      "lotSizeSqFt": 9458,
+      "lastAssessmentValue": 1162916
+    },
+    "permits": []
+  },
+  {
+    "id": "ml_141",
+    "address": "801 Jule St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://www.stjosephmemorylane.com/aerials/1946rosecransx.jpg",
+      "imageUrl": "/data/images/img_141.jpg",
+      "title": "Asset 141",
+      "caption": "Historic Image 43",
+      "estimatedYear": 1938
+    },
+    "civicData": {
+      "zoning": "M-1 Light Industrial",
+      "floodZone": "Zone X (Minimal Risk)",
+      "historicRegistry": "Local Landmark",
+      "lotSizeSqFt": 8653,
+      "lastAssessmentValue": 544372
+    },
+    "permits": [
+      {
+        "date": "2023-06-26",
+        "type": "Facade Restoration",
+        "status": "Approved"
+      }
+    ]
+  },
+  {
+    "id": "ml_142",
+    "address": "446 Francis St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://www.stjosephmemorylane.com/aerials/1951aerialx.jpg",
+      "imageUrl": "/data/images/img_142.jpg",
+      "title": "Asset 142",
+      "caption": "Historic Image 44",
+      "estimatedYear": 1898
+    },
+    "civicData": {
+      "zoning": "R-1 Single Family",
+      "floodZone": "Zone X (Minimal Risk)",
+      "historicRegistry": "Not Listed",
+      "lotSizeSqFt": 13704,
+      "lastAssessmentValue": 1218690
+    },
+    "permits": [
+      {
+        "date": "2013-06-23",
+        "type": "Facade Restoration",
+        "status": "Closed"
+      },
+      {
+        "date": "1998-06-06",
+        "type": "HVAC Installation",
+        "status": "Approved"
+      },
+      {
+        "date": "1995-07-06",
+        "type": "HVAC Installation",
+        "status": "Closed"
+      },
+      {
+        "date": "1995-05-28",
+        "type": "Facade Restoration",
+        "status": "Approved"
+      }
+    ]
+  },
+  {
+    "id": "ml_143",
+    "address": "987 Edmond St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://www.stjosephmemorylane.com/aerials/oldponybridgex.jpg",
+      "imageUrl": "/data/images/img_143.jpg",
+      "title": "Asset 143",
+      "caption": "Historic Image 45",
+      "estimatedYear": 1942
+    },
+    "civicData": {
+      "zoning": "M-1 Light Industrial",
+      "floodZone": "Zone X (Minimal Risk)",
+      "historicRegistry": "Local Landmark",
+      "lotSizeSqFt": 4060,
+      "lastAssessmentValue": 51538
+    },
+    "permits": [
+      {
+        "date": "2015-02-20",
+        "type": "Interior Demolition",
+        "status": "Pending"
+      },
+      {
+        "date": "2013-05-15",
+        "type": "Interior Demolition",
+        "status": "Approved"
+      },
+      {
+        "date": "2011-07-13",
+        "type": "Plumbing Repair",
+        "status": "Approved"
+      },
+      {
+        "date": "2005-01-08",
+        "type": "Facade Restoration",
+        "status": "Approved"
+      }
+    ]
+  },
+  {
+    "id": "ml_144",
+    "address": "445 King Hill Ave, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://www.stjosephmemorylane.com/aerials/sistersx.jpg",
+      "imageUrl": "/data/images/img_144.jpg",
+      "title": "Asset 144",
+      "caption": "Historic Image 46",
+      "estimatedYear": 1929
+    },
+    "civicData": {
+      "zoning": "R-2 Multi-Family",
+      "floodZone": "Zone AH (High Risk)",
+      "historicRegistry": "Not Listed",
+      "lotSizeSqFt": 11996,
+      "lastAssessmentValue": 675618
+    },
+    "permits": []
+  },
+  {
+    "id": "ml_145",
+    "address": "1249 Faraon St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://www.stjosephmemorylane.com/aerials/spark2x.jpg",
+      "imageUrl": "/data/images/img_145.jpg",
+      "title": "Asset 145",
+      "caption": "Historic Image 47",
+      "estimatedYear": 1952
+    },
+    "civicData": {
+      "zoning": "M-1 Light Industrial",
+      "floodZone": "Zone X (Minimal Risk)",
+      "historicRegistry": "Local Landmark",
+      "lotSizeSqFt": 12661,
+      "lastAssessmentValue": 858316
+    },
+    "permits": []
+  },
+  {
+    "id": "ml_146",
+    "address": "777 Felix St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://www.stjosephmemorylane.com/aerials/Frederick1962x.jpg",
+      "imageUrl": "/data/images/img_146.jpg",
+      "title": "Asset 146",
+      "caption": "Historic Image 48",
+      "estimatedYear": 1940
+    },
+    "civicData": {
+      "zoning": "R-1 Single Family",
+      "floodZone": "Zone X (Minimal Risk)",
+      "historicRegistry": "Not Listed",
+      "lotSizeSqFt": 8384,
+      "lastAssessmentValue": 1479453
+    },
+    "permits": [
+      {
+        "date": "2018-06-24",
+        "type": "Roof Replacement",
+        "status": "Pending"
+      },
+      {
+        "date": "2018-05-15",
+        "type": "Interior Demolition",
+        "status": "Approved"
+      }
+    ]
+  },
+  {
+    "id": "ml_147",
+    "address": "1252 King Hill Ave, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://www.stjosephmemorylane.com/aerials/wyethaerialx.jpg",
+      "imageUrl": "/data/images/img_147.jpg",
+      "title": "Asset 147",
+      "caption": "Historic Image 49",
+      "estimatedYear": 1943
+    },
+    "civicData": {
+      "zoning": "R-1 Single Family",
+      "floodZone": "Zone X (Minimal Risk)",
+      "historicRegistry": "Eligible for Register",
+      "lotSizeSqFt": 10926,
+      "lastAssessmentValue": 458159
+    },
+    "permits": [
+      {
+        "date": "2018-07-23",
+        "type": "Electrical Upgrade",
+        "status": "Approved"
+      },
+      {
+        "date": "2014-07-14",
+        "type": "HVAC Installation",
+        "status": "Approved"
+      },
+      {
+        "date": "1997-01-05",
+        "type": "Electrical Upgrade",
+        "status": "Approved"
+      }
+    ]
+  },
+  {
+    "id": "ml_148",
+    "address": "1321 King Hill Ave, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://www.stjosephmemorylane.com/aerials/bean6x.jpg",
+      "imageUrl": "/data/images/img_148.jpg",
+      "title": "Asset 148",
+      "caption": "Historic Image 50",
+      "estimatedYear": 1950
+    },
+    "civicData": {
+      "zoning": "M-1 Light Industrial",
+      "floodZone": "Zone X (Minimal Risk)",
+      "historicRegistry": "Local Landmark",
+      "lotSizeSqFt": 2716,
+      "lastAssessmentValue": 1356232
+    },
+    "permits": [
+      {
+        "date": "1999-02-07",
+        "type": "HVAC Installation",
+        "status": "Approved"
+      },
+      {
+        "date": "1998-08-07",
+        "type": "Electrical Upgrade",
+        "status": "Closed"
+      }
+    ]
+  },
+  {
+    "id": "ml_149",
+    "address": "1118 Jule St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://www.stjosephmemorylane.com/aerials/waterfrontx.jpg",
+      "imageUrl": "/data/images/img_149.jpg",
+      "title": "Asset 149",
+      "caption": "Historic Image 51",
+      "estimatedYear": 1919
+    },
+    "civicData": {
+      "zoning": "C-2 Downtown Commercial",
+      "floodZone": "Zone X (Minimal Risk)",
+      "historicRegistry": "Not Listed",
+      "lotSizeSqFt": 11064,
+      "lastAssessmentValue": 977515
+    },
+    "permits": [
+      {
+        "date": "2021-03-10",
+        "type": "Plumbing Repair",
+        "status": "Approved"
+      },
+      {
+        "date": "2014-02-07",
+        "type": "Interior Demolition",
+        "status": "Pending"
+      },
+      {
+        "date": "2013-04-23",
+        "type": "Interior Demolition",
+        "status": "Approved"
+      }
+    ]
+  },
+  {
+    "id": "ml_150",
+    "address": "341 Edmond St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://www.stjosephmemorylane.com/aerials/waterfront2x.jpg",
+      "imageUrl": "/data/images/img_150.jpg",
+      "title": "Asset 150",
+      "caption": "Historic Image 52",
+      "estimatedYear": 1939
+    },
+    "civicData": {
+      "zoning": "R-2 Multi-Family",
+      "floodZone": "Zone X (Minimal Risk)",
+      "historicRegistry": "National Register",
+      "lotSizeSqFt": 8810,
+      "lastAssessmentValue": 852873
+    },
+    "permits": []
+  },
+  {
+    "id": "ml_151",
+    "address": "1363 Francis St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://www.stjosephmemorylane.com/aerials/stockyardsx.jpg",
+      "imageUrl": "/data/images/img_151.jpg",
+      "title": "Asset 151",
+      "caption": "Historic Image 53",
+      "estimatedYear": 1912
+    },
+    "civicData": {
+      "zoning": "R-2 Multi-Family",
+      "floodZone": "Zone X (Minimal Risk)",
+      "historicRegistry": "Eligible for Register",
+      "lotSizeSqFt": 14667,
+      "lastAssessmentValue": 121347
+    },
+    "permits": [
+      {
+        "date": "2006-11-02",
+        "type": "Plumbing Repair",
+        "status": "Approved"
+      },
+      {
+        "date": "1997-08-25",
+        "type": "Facade Restoration",
+        "status": "Pending"
+      }
+    ]
+  },
+  {
+    "id": "ml_152",
+    "address": "356 Edmond St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://www.stjosephmemorylane.com/aerials/stockyards2x.jpg",
+      "imageUrl": "/data/images/img_152.jpg",
+      "title": "Asset 152",
+      "caption": "Historic Image 54",
+      "estimatedYear": 1951
+    },
+    "civicData": {
+      "zoning": "M-1 Light Industrial",
+      "floodZone": "Zone X (Minimal Risk)",
+      "historicRegistry": "Local Landmark",
+      "lotSizeSqFt": 6592,
+      "lastAssessmentValue": 60305
+    },
+    "permits": [
+      {
+        "date": "1999-11-19",
+        "type": "Interior Demolition",
+        "status": "Pending"
+      }
+    ]
+  },
+  {
+    "id": "ml_153",
+    "address": "765 King Hill Ave, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://www.stjosephmemorylane.com/aerials/khplazax.jpg",
+      "imageUrl": "/data/images/img_153.jpg",
+      "title": "Asset 153",
+      "caption": "Historic Image 55",
+      "estimatedYear": 1948
+    },
+    "civicData": {
+      "zoning": "R-1 Single Family",
+      "floodZone": "Zone AE (High Risk)",
+      "historicRegistry": "National Register",
+      "lotSizeSqFt": 10963,
+      "lastAssessmentValue": 406517
+    },
+    "permits": [
+      {
+        "date": "2016-03-17",
+        "type": "Roof Replacement",
+        "status": "Pending"
+      },
+      {
+        "date": "2013-02-14",
+        "type": "Roof Replacement",
+        "status": "Approved"
+      },
+      {
+        "date": "2010-12-05",
+        "type": "Facade Restoration",
+        "status": "Pending"
+      },
+      {
+        "date": "2004-06-20",
+        "type": "Plumbing Repair",
+        "status": "Approved"
+      }
+    ]
+  },
+  {
+    "id": "ml_154",
+    "address": "1284 Robidoux St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://www.stjosephmemorylane.com/aerials/kelsey2x.jpg",
+      "imageUrl": "/data/images/img_154.jpg",
+      "title": "Asset 154",
+      "caption": "Historic Image 56",
+      "estimatedYear": 1956
+    },
+    "civicData": {
+      "zoning": "R-1 Single Family",
+      "floodZone": "Zone AH (High Risk)",
+      "historicRegistry": "Local Landmark",
+      "lotSizeSqFt": 12695,
+      "lastAssessmentValue": 186355
+    },
+    "permits": [
+      {
+        "date": "2006-04-27",
+        "type": "Facade Restoration",
+        "status": "Closed"
+      }
+    ]
+  },
+  {
+    "id": "ml_155",
+    "address": "933 Jule St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://www.stjosephmemorylane.com/aerials/kelsey7x.jpg",
+      "imageUrl": "/data/images/img_155.jpg",
+      "title": "Asset 155",
+      "caption": "Historic Image 57",
+      "estimatedYear": 1932
+    },
+    "civicData": {
+      "zoning": "C-3 Commercial District",
+      "floodZone": "Zone X (Minimal Risk)",
+      "historicRegistry": "Eligible for Register",
+      "lotSizeSqFt": 10867,
+      "lastAssessmentValue": 941741
+    },
+    "permits": [
+      {
+        "date": "2022-10-16",
+        "type": "HVAC Installation",
+        "status": "Approved"
+      },
+      {
+        "date": "2018-09-17",
+        "type": "Plumbing Repair",
+        "status": "Closed"
+      },
+      {
+        "date": "1999-01-22",
+        "type": "Roof Replacement",
+        "status": "Approved"
+      }
+    ]
+  },
+  {
+    "id": "ml_156",
+    "address": "380 Jule St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://www.stjosephmemorylane.com/aerials/everettaerialx.jpg",
+      "imageUrl": "/data/images/img_156.jpg",
+      "title": "Asset 156",
+      "caption": "Historic Image 58",
+      "estimatedYear": 1951
+    },
+    "civicData": {
+      "zoning": "R-1 Single Family",
+      "floodZone": "Zone X (Minimal Risk)",
+      "historicRegistry": "Not Listed",
+      "lotSizeSqFt": 11100,
+      "lastAssessmentValue": 80425
+    },
+    "permits": [
+      {
+        "date": "2014-06-23",
+        "type": "Electrical Upgrade",
+        "status": "Approved"
+      },
+      {
+        "date": "2007-11-22",
+        "type": "Facade Restoration",
+        "status": "Closed"
+      }
+    ]
+  },
+  {
+    "id": "ml_157",
+    "address": "693 Edmond St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://www.stjosephmemorylane.com/aerials/1910bentonx.jpg",
+      "imageUrl": "/data/images/img_157.jpg",
+      "title": "Asset 157",
+      "caption": "Historic Image 59",
+      "estimatedYear": 1906
+    },
+    "civicData": {
+      "zoning": "C-2 Downtown Commercial",
+      "floodZone": "Zone X (Minimal Risk)",
+      "historicRegistry": "Not Listed",
+      "lotSizeSqFt": 11358,
+      "lastAssessmentValue": 1336485
+    },
+    "permits": [
+      {
+        "date": "2022-10-14",
+        "type": "HVAC Installation",
+        "status": "Approved"
+      },
+      {
+        "date": "2016-12-23",
+        "type": "Roof Replacement",
+        "status": "Approved"
+      },
+      {
+        "date": "1998-10-09",
+        "type": "Plumbing Repair",
+        "status": "Approved"
+      },
+      {
+        "date": "1997-07-02",
+        "type": "Facade Restoration",
+        "status": "Approved"
+      }
+    ]
+  },
+  {
+    "id": "ml_158",
+    "address": "1447 Faraon St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://www.stjosephmemorylane.com/aerials/1952floodx.jpg",
+      "imageUrl": "/data/images/img_158.jpg",
+      "title": "Asset 158",
+      "caption": "Historic Image 60",
+      "estimatedYear": 1942
+    },
+    "civicData": {
+      "zoning": "M-1 Light Industrial",
+      "floodZone": "Zone AE (High Risk)",
+      "historicRegistry": "Not Listed",
+      "lotSizeSqFt": 10204,
+      "lastAssessmentValue": 1353906
+    },
+    "permits": [
+      {
+        "date": "2022-02-25",
+        "type": "HVAC Installation",
+        "status": "Closed"
+      },
+      {
+        "date": "2018-11-22",
+        "type": "Plumbing Repair",
+        "status": "Approved"
+      },
+      {
+        "date": "2016-07-15",
+        "type": "HVAC Installation",
+        "status": "Approved"
+      },
+      {
+        "date": "2002-03-13",
+        "type": "Roof Replacement",
+        "status": "Closed"
+      }
+    ]
+  },
+  {
+    "id": "ml_159",
+    "address": "174 Jule St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://www.stjosephmemorylane.com/aerials/1952flood2x.jpg",
+      "imageUrl": "/data/images/img_159.jpg",
+      "title": "Asset 159",
+      "caption": "Historic Image 61",
+      "estimatedYear": 1937
+    },
+    "civicData": {
+      "zoning": "C-3 Commercial District",
+      "floodZone": "Zone AH (High Risk)",
+      "historicRegistry": "Not Listed",
+      "lotSizeSqFt": 11332,
+      "lastAssessmentValue": 1213392
+    },
+    "permits": [
+      {
+        "date": "2023-05-18",
+        "type": "Roof Replacement",
+        "status": "Closed"
+      },
+      {
+        "date": "2017-06-21",
+        "type": "Interior Demolition",
+        "status": "Pending"
+      },
+      {
+        "date": "2009-07-08",
+        "type": "Facade Restoration",
+        "status": "Pending"
+      }
+    ]
+  },
+  {
+    "id": "ml_160",
+    "address": "1060 Faraon St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://www.stjosephmemorylane.com/aerials/1952flood3x.jpg",
+      "imageUrl": "/data/images/img_160.jpg",
+      "title": "Asset 160",
+      "caption": "Historic Image 62",
+      "estimatedYear": 1941
+    },
+    "civicData": {
+      "zoning": "R-2 Multi-Family",
+      "floodZone": "Zone X (Minimal Risk)",
+      "historicRegistry": "Local Landmark",
+      "lotSizeSqFt": 9651,
+      "lastAssessmentValue": 197171
+    },
+    "permits": [
+      {
+        "date": "1995-06-08",
+        "type": "Roof Replacement",
+        "status": "Approved"
+      }
+    ]
+  },
+  {
+    "id": "ml_161",
+    "address": "149 Jule St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://www.stjosephmemorylane.com/aerials/1952flood4x.jpg",
+      "imageUrl": "/data/images/img_161.jpg",
+      "title": "Asset 161",
+      "caption": "Historic Image 63",
+      "estimatedYear": 1912
+    },
+    "civicData": {
+      "zoning": "C-2 Downtown Commercial",
+      "floodZone": "Zone AH (High Risk)",
+      "historicRegistry": "National Register",
+      "lotSizeSqFt": 7506,
+      "lastAssessmentValue": 1338481
+    },
+    "permits": [
+      {
+        "date": "2011-06-21",
+        "type": "Interior Demolition",
+        "status": "Approved"
+      }
+    ]
+  },
+  {
+    "id": "ml_162",
+    "address": "385 Felix St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://www.stjosephmemorylane.com/aerials/1952flood5x.jpg",
+      "imageUrl": "/data/images/img_162.jpg",
+      "title": "Asset 162",
+      "caption": "Historic Image 64",
+      "estimatedYear": 1898
+    },
+    "civicData": {
+      "zoning": "C-2 Downtown Commercial",
+      "floodZone": "Zone X (Minimal Risk)",
+      "historicRegistry": "National Register",
+      "lotSizeSqFt": 9451,
+      "lastAssessmentValue": 808571
+    },
+    "permits": []
+  },
+  {
+    "id": "ml_163",
+    "address": "435 Robidoux St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://www.stjosephmemorylane.com/aerials/1952flood6x.jpg",
+      "imageUrl": "/data/images/img_163.jpg",
+      "title": "Asset 163",
+      "caption": "Historic Image 65",
+      "estimatedYear": 1903
+    },
+    "civicData": {
+      "zoning": "M-1 Light Industrial",
+      "floodZone": "Zone X (Minimal Risk)",
+      "historicRegistry": "Not Listed",
+      "lotSizeSqFt": 10377,
+      "lastAssessmentValue": 446745
+    },
+    "permits": [
+      {
+        "date": "2019-11-14",
+        "type": "Plumbing Repair",
+        "status": "Closed"
+      }
+    ]
+  },
+  {
+    "id": "ml_164",
+    "address": "1034 Faraon St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://www.stjosephmemorylane.com/aerials/1952flood7x.jpg",
+      "imageUrl": "/data/images/img_164.jpg",
+      "title": "Asset 164",
+      "caption": "Historic Image 66",
+      "estimatedYear": 1926
+    },
+    "civicData": {
+      "zoning": "R-1 Single Family",
+      "floodZone": "Zone AH (High Risk)",
+      "historicRegistry": "National Register",
+      "lotSizeSqFt": 12697,
+      "lastAssessmentValue": 551985
+    },
+    "permits": []
+  },
+  {
+    "id": "ml_165",
+    "address": "159 Felix St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://www.stjosephmemorylane.com/aerials/1952flood8x.jpg",
+      "imageUrl": "/data/images/img_165.jpg",
+      "title": "Asset 165",
+      "caption": "Historic Image 67",
+      "estimatedYear": 1904
+    },
+    "civicData": {
+      "zoning": "C-2 Downtown Commercial",
+      "floodZone": "Zone AE (High Risk)",
+      "historicRegistry": "National Register",
+      "lotSizeSqFt": 3903,
+      "lastAssessmentValue": 227664
+    },
+    "permits": []
+  },
+  {
+    "id": "ml_166",
+    "address": "1451 Francis St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://www.stjosephmemorylane.com/aerials/bwingx.jpg",
+      "imageUrl": "/data/images/img_166.jpg",
+      "title": "Asset 166",
+      "caption": "Historic Image 68",
+      "estimatedYear": 1948
+    },
+    "civicData": {
+      "zoning": "C-2 Downtown Commercial",
+      "floodZone": "Zone X (Minimal Risk)",
+      "historicRegistry": "Not Listed",
+      "lotSizeSqFt": 9442,
+      "lastAssessmentValue": 1447817
+    },
+    "permits": [
+      {
+        "date": "2022-02-20",
+        "type": "Facade Restoration",
+        "status": "Closed"
+      },
+      {
+        "date": "2019-04-13",
+        "type": "Electrical Upgrade",
+        "status": "Pending"
+      },
+      {
+        "date": "2006-07-05",
+        "type": "Interior Demolition",
+        "status": "Closed"
+      },
+      {
+        "date": "1999-01-27",
+        "type": "HVAC Installation",
+        "status": "Approved"
+      }
+    ]
+  },
+  {
+    "id": "ml_167",
+    "address": "1282 St Joseph Ave, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://www.stjosephmemorylane.com/aerials/bwing2x.jpg",
+      "imageUrl": "/data/images/img_167.jpg",
+      "title": "Asset 167",
+      "caption": "Historic Image 69",
+      "estimatedYear": 1939
+    },
+    "civicData": {
+      "zoning": "R-2 Multi-Family",
+      "floodZone": "Zone AE (High Risk)",
+      "historicRegistry": "National Register",
+      "lotSizeSqFt": 10154,
+      "lastAssessmentValue": 946290
+    },
+    "permits": []
+  },
+  {
+    "id": "ml_168",
+    "address": "984 Faraon St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://www.stjosephmemorylane.com/aerials/bwing3x.jpg",
+      "imageUrl": "/data/images/img_168.jpg",
+      "title": "Asset 168",
+      "caption": "Historic Image 70",
+      "estimatedYear": 1940
+    },
+    "civicData": {
+      "zoning": "C-3 Commercial District",
+      "floodZone": "Zone AH (High Risk)",
+      "historicRegistry": "Local Landmark",
+      "lotSizeSqFt": 10298,
+      "lastAssessmentValue": 867778
+    },
+    "permits": [
+      {
+        "date": "2014-03-10",
+        "type": "HVAC Installation",
+        "status": "Approved"
+      }
+    ]
+  },
+  {
+    "id": "ml_169",
+    "address": "663 Jule St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://www.stjosephmemorylane.com/aerials/bwing4x.jpg",
+      "imageUrl": "/data/images/img_169.jpg",
+      "title": "Asset 169",
+      "caption": "Historic Image 71",
+      "estimatedYear": 1891
+    },
+    "civicData": {
+      "zoning": "C-2 Downtown Commercial",
+      "floodZone": "Zone AH (High Risk)",
+      "historicRegistry": "Local Landmark",
+      "lotSizeSqFt": 10246,
+      "lastAssessmentValue": 270430
+    },
+    "permits": []
+  },
+  {
+    "id": "ml_170",
+    "address": "593 Faraon St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://www.stjosephmemorylane.com/aerials/bwing5x.jpg",
+      "imageUrl": "/data/images/img_170.jpg",
+      "title": "Asset 170",
+      "caption": "Historic Image 72",
+      "estimatedYear": 1892
+    },
+    "civicData": {
+      "zoning": "C-2 Downtown Commercial",
+      "floodZone": "Zone X (Minimal Risk)",
+      "historicRegistry": "National Register",
+      "lotSizeSqFt": 9642,
+      "lastAssessmentValue": 622422
+    },
+    "permits": [
+      {
+        "date": "2025-08-05",
+        "type": "HVAC Installation",
+        "status": "Approved"
+      },
+      {
+        "date": "2023-07-24",
+        "type": "Facade Restoration",
+        "status": "Approved"
+      },
+      {
+        "date": "2022-03-24",
+        "type": "HVAC Installation",
+        "status": "Pending"
+      },
+      {
+        "date": "2013-04-22",
+        "type": "HVAC Installation",
+        "status": "Approved"
+      }
+    ]
+  },
+  {
+    "id": "ml_171",
+    "address": "628 St Joseph Ave, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://www.stjosephmemorylane.com/aerials/bwing6x.jpg",
+      "imageUrl": "/data/images/img_171.jpg",
+      "title": "Asset 171",
+      "caption": "Historic Image 73",
+      "estimatedYear": 1923
+    },
+    "civicData": {
+      "zoning": "R-1 Single Family",
+      "floodZone": "Zone X (Minimal Risk)",
+      "historicRegistry": "Local Landmark",
+      "lotSizeSqFt": 9162,
+      "lastAssessmentValue": 1234801
+    },
+    "permits": []
+  },
+  {
+    "id": "ml_172",
+    "address": "660 Jule St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://www.stjosephmemorylane.com/aerials/bwing7x.jpg",
+      "imageUrl": "/data/images/img_172.jpg",
+      "title": "Asset 172",
+      "caption": "Historic Image 74",
+      "estimatedYear": 1941
+    },
+    "civicData": {
+      "zoning": "C-3 Commercial District",
+      "floodZone": "Zone X (Minimal Risk)",
+      "historicRegistry": "Eligible for Register",
+      "lotSizeSqFt": 3350,
+      "lastAssessmentValue": 609913
+    },
+    "permits": []
+  },
+  {
+    "id": "ml_173",
+    "address": "1130 King Hill Ave, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://www.stjosephmemorylane.com/aerials/bwing8x.jpg",
+      "imageUrl": "/data/images/img_173.jpg",
+      "title": "Asset 173",
+      "caption": "Historic Image 75",
+      "estimatedYear": 1892
+    },
+    "civicData": {
+      "zoning": "R-2 Multi-Family",
+      "floodZone": "Zone AE (High Risk)",
+      "historicRegistry": "Eligible for Register",
+      "lotSizeSqFt": 3860,
+      "lastAssessmentValue": 469792
+    },
+    "permits": [
+      {
+        "date": "2009-05-23",
+        "type": "Roof Replacement",
+        "status": "Pending"
+      },
+      {
+        "date": "1997-08-10",
+        "type": "Roof Replacement",
+        "status": "Approved"
+      }
+    ]
+  },
+  {
+    "id": "ml_174",
+    "address": "1294 Frederick Ave, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://www.stjosephmemorylane.com/aerials/bwing9x.jpg",
+      "imageUrl": "/data/images/img_174.jpg",
+      "title": "Asset 174",
+      "caption": "Historic Image 76",
+      "estimatedYear": 1948
+    },
+    "civicData": {
+      "zoning": "C-2 Downtown Commercial",
+      "floodZone": "Zone AE (High Risk)",
+      "historicRegistry": "National Register",
+      "lotSizeSqFt": 11587,
+      "lastAssessmentValue": 1058894
+    },
+    "permits": [
+      {
+        "date": "2023-08-07",
+        "type": "Interior Demolition",
+        "status": "Approved"
+      },
+      {
+        "date": "2009-06-14",
+        "type": "Facade Restoration",
+        "status": "Closed"
+      },
+      {
+        "date": "2003-12-03",
+        "type": "Roof Replacement",
+        "status": "Closed"
+      },
+      {
+        "date": "2001-08-02",
+        "type": "Plumbing Repair",
+        "status": "Approved"
+      }
+    ]
+  },
+  {
+    "id": "ml_175",
+    "address": "500 Robidoux St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://www.stjosephmemorylane.com/aerials/1929bwingx.jpg",
+      "imageUrl": "/data/images/img_175.jpg",
+      "title": "Asset 175",
+      "caption": "Historic Image 77",
+      "estimatedYear": 1903
+    },
+    "civicData": {
+      "zoning": "C-2 Downtown Commercial",
+      "floodZone": "Zone AE (High Risk)",
+      "historicRegistry": "Eligible for Register",
+      "lotSizeSqFt": 9211,
+      "lastAssessmentValue": 288430
+    },
+    "permits": [
+      {
+        "date": "1995-01-27",
+        "type": "Interior Demolition",
+        "status": "Closed"
+      }
+    ]
+  },
+  {
+    "id": "ml_176",
+    "address": "1198 Francis St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://www.stjosephmemorylane.com/aerials/lightpower2x.jpg",
+      "imageUrl": "/data/images/img_176.jpg",
+      "title": "Asset 176",
+      "caption": "Historic Image 78",
+      "estimatedYear": 1943
+    },
+    "civicData": {
+      "zoning": "R-2 Multi-Family",
+      "floodZone": "Zone AH (High Risk)",
+      "historicRegistry": "Eligible for Register",
+      "lotSizeSqFt": 11657,
+      "lastAssessmentValue": 1093943
+    },
+    "permits": []
+  },
+  {
+    "id": "ml_177",
+    "address": "882 Syllamalash St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://www.stjosephmemorylane.com/aerials/mapx.jpg",
+      "imageUrl": "/data/images/img_177.jpg",
+      "title": "Asset 177",
+      "caption": "Historic Image 79",
+      "estimatedYear": 1950
+    },
+    "civicData": {
+      "zoning": "M-1 Light Industrial",
+      "floodZone": "Zone X (Minimal Risk)",
+      "historicRegistry": "Local Landmark",
+      "lotSizeSqFt": 14229,
+      "lastAssessmentValue": 687873
+    },
+    "permits": []
+  },
+  {
+    "id": "ml_178",
+    "address": "521 Syllamalash St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://www.stjosephmemorylane.com/aerials/parkwaymapx.jpg",
+      "imageUrl": "/data/images/img_178.jpg",
+      "title": "Asset 178",
+      "caption": "Historic Image 80",
+      "estimatedYear": 1929
+    },
+    "civicData": {
+      "zoning": "C-2 Downtown Commercial",
+      "floodZone": "Zone X (Minimal Risk)",
+      "historicRegistry": "National Register",
+      "lotSizeSqFt": 2617,
+      "lastAssessmentValue": 643024
+    },
+    "permits": [
+      {
+        "date": "2022-01-25",
+        "type": "Electrical Upgrade",
+        "status": "Approved"
+      },
+      {
+        "date": "2021-01-05",
+        "type": "Roof Replacement",
+        "status": "Approved"
+      },
+      {
+        "date": "2015-02-15",
+        "type": "Plumbing Repair",
+        "status": "Closed"
+      },
+      {
+        "date": "1995-05-17",
+        "type": "Facade Restoration",
+        "status": "Closed"
+      }
+    ]
+  },
+  {
+    "id": "ml_179",
+    "address": "585 Jule St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://www.stjosephmemorylane.com/aerials/1905rfx.jpg",
+      "imageUrl": "/data/images/img_179.jpg",
+      "title": "Asset 179",
+      "caption": "Historic Image 81",
+      "estimatedYear": 1911
+    },
+    "civicData": {
+      "zoning": "R-2 Multi-Family",
+      "floodZone": "Zone X (Minimal Risk)",
+      "historicRegistry": "Local Landmark",
+      "lotSizeSqFt": 3420,
+      "lastAssessmentValue": 1357152
+    },
+    "permits": [
+      {
+        "date": "2019-05-27",
+        "type": "Roof Replacement",
+        "status": "Approved"
+      },
+      {
+        "date": "2012-12-05",
+        "type": "Facade Restoration",
+        "status": "Pending"
+      },
+      {
+        "date": "2011-12-18",
+        "type": "Interior Demolition",
+        "status": "Pending"
+      },
+      {
+        "date": "2002-07-11",
+        "type": "Electrical Upgrade",
+        "status": "Closed"
+      }
+    ]
+  },
+  {
+    "id": "ml_180",
+    "address": "1413 Syllamalash St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://www.stjosephmemorylane.com/aerials/1905rf2x.jpg",
+      "imageUrl": "/data/images/img_180.jpg",
+      "title": "Asset 180",
+      "caption": "Historic Image 82",
+      "estimatedYear": 1957
+    },
+    "civicData": {
+      "zoning": "C-2 Downtown Commercial",
+      "floodZone": "Zone AE (High Risk)",
+      "historicRegistry": "National Register",
+      "lotSizeSqFt": 11875,
+      "lastAssessmentValue": 1348370
+    },
+    "permits": []
+  },
+  {
+    "id": "ml_181",
+    "address": "215 Jule St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://www.stjosephmemorylane.com/aerials/1905rf3x.jpg",
+      "imageUrl": "/data/images/img_181.jpg",
+      "title": "Asset 181",
+      "caption": "Historic Image 83",
+      "estimatedYear": 1943
+    },
+    "civicData": {
+      "zoning": "C-3 Commercial District",
+      "floodZone": "Zone X (Minimal Risk)",
+      "historicRegistry": "Local Landmark",
+      "lotSizeSqFt": 12197,
+      "lastAssessmentValue": 1057075
+    },
+    "permits": [
+      {
+        "date": "2012-04-22",
+        "type": "Facade Restoration",
+        "status": "Approved"
+      },
+      {
+        "date": "2002-03-20",
+        "type": "Facade Restoration",
+        "status": "Approved"
+      }
+    ]
+  },
+  {
+    "id": "ml_182",
+    "address": "1369 Faraon St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://www.stjosephmemorylane.com/aerials/1900riverfrontx.jpg",
+      "imageUrl": "/data/images/img_182.jpg",
+      "title": "Asset 182",
+      "caption": "Historic Image 84",
+      "estimatedYear": 1896
+    },
+    "civicData": {
+      "zoning": "C-2 Downtown Commercial",
+      "floodZone": "Zone AH (High Risk)",
+      "historicRegistry": "Eligible for Register",
+      "lotSizeSqFt": 10941,
+      "lastAssessmentValue": 1046229
+    },
+    "permits": [
+      {
+        "date": "2020-08-04",
+        "type": "Plumbing Repair",
+        "status": "Pending"
+      },
+      {
+        "date": "2018-06-26",
+        "type": "Facade Restoration",
+        "status": "Approved"
+      },
+      {
+        "date": "2005-08-27",
+        "type": "Plumbing Repair",
+        "status": "Approved"
+      },
+      {
+        "date": "2004-04-01",
+        "type": "Facade Restoration",
+        "status": "Closed"
+      }
+    ]
+  },
+  {
+    "id": "ml_183",
+    "address": "198 Faraon St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://www.stjosephmemorylane.com/aerials/1911%20postcardx.jpg",
+      "imageUrl": "/data/images/img_183.jpg",
+      "title": "Asset 183",
+      "caption": "Historic Image 85",
+      "estimatedYear": 1898
+    },
+    "civicData": {
+      "zoning": "R-2 Multi-Family",
+      "floodZone": "Zone X (Minimal Risk)",
+      "historicRegistry": "National Register",
+      "lotSizeSqFt": 4894,
+      "lastAssessmentValue": 1007311
+    },
+    "permits": [
+      {
+        "date": "2014-09-11",
+        "type": "Facade Restoration",
+        "status": "Approved"
+      },
+      {
+        "date": "2013-12-02",
+        "type": "Interior Demolition",
+        "status": "Pending"
+      },
+      {
+        "date": "2001-07-28",
+        "type": "Electrical Upgrade",
+        "status": "Approved"
+      },
+      {
+        "date": "1997-04-19",
+        "type": "HVAC Installation",
+        "status": "Approved"
+      }
+    ]
+  },
+  {
+    "id": "ml_184",
+    "address": "1353 Frederick Ave, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://www.stjosephmemorylane.com/aerials/1909rfx.jpg",
+      "imageUrl": "/data/images/img_184.jpg",
+      "title": "Asset 184",
+      "caption": "Historic Image 86",
+      "estimatedYear": 1948
+    },
+    "civicData": {
+      "zoning": "R-1 Single Family",
+      "floodZone": "Zone X (Minimal Risk)",
+      "historicRegistry": "Not Listed",
+      "lotSizeSqFt": 14563,
+      "lastAssessmentValue": 917375
+    },
+    "permits": [
+      {
+        "date": "2002-01-17",
+        "type": "Roof Replacement",
+        "status": "Approved"
+      },
+      {
+        "date": "1995-04-16",
+        "type": "Interior Demolition",
+        "status": "Approved"
+      }
+    ]
+  },
+  {
+    "id": "ml_185",
+    "address": "1296 Robidoux St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://www.stjosephmemorylane.com/aerials/1950rfx.jpg",
+      "imageUrl": "/data/images/img_185.jpg",
+      "title": "Asset 185",
+      "caption": "Historic Image 87",
+      "estimatedYear": 1922
+    },
+    "civicData": {
+      "zoning": "R-2 Multi-Family",
+      "floodZone": "Zone X (Minimal Risk)",
+      "historicRegistry": "National Register",
+      "lotSizeSqFt": 7153,
+      "lastAssessmentValue": 163931
+    },
+    "permits": [
+      {
+        "date": "2018-02-01",
+        "type": "HVAC Installation",
+        "status": "Pending"
+      },
+      {
+        "date": "2013-06-08",
+        "type": "Electrical Upgrade",
+        "status": "Approved"
+      }
+    ]
+  },
+  {
+    "id": "ml_186",
+    "address": "340 Robidoux St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://www.stjosephmemorylane.com/aerials/1905rf4x.jpg",
+      "imageUrl": "/data/images/img_186.jpg",
+      "title": "Asset 186",
+      "caption": "Historic Image 88",
+      "estimatedYear": 1912
+    },
+    "civicData": {
+      "zoning": "C-3 Commercial District",
+      "floodZone": "Zone X (Minimal Risk)",
+      "historicRegistry": "Eligible for Register",
+      "lotSizeSqFt": 9763,
+      "lastAssessmentValue": 1256256
+    },
+    "permits": [
+      {
+        "date": "2024-06-26",
+        "type": "Plumbing Repair",
+        "status": "Approved"
+      }
+    ]
+  },
+  {
+    "id": "ml_187",
+    "address": "942 Frederick Ave, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://www.stjosephmemorylane.com/aerials/1905rf5x.jpg",
+      "imageUrl": "/data/images/img_187.jpg",
+      "title": "Asset 187",
+      "caption": "Historic Image 89",
+      "estimatedYear": 1906
+    },
+    "civicData": {
+      "zoning": "C-3 Commercial District",
+      "floodZone": "Zone AH (High Risk)",
+      "historicRegistry": "Eligible for Register",
+      "lotSizeSqFt": 11067,
+      "lastAssessmentValue": 1253552
+    },
+    "permits": [
+      {
+        "date": "2025-08-12",
+        "type": "Interior Demolition",
+        "status": "Approved"
+      },
+      {
+        "date": "2009-03-09",
+        "type": "Facade Restoration",
+        "status": "Approved"
+      },
+      {
+        "date": "1998-05-23",
+        "type": "HVAC Installation",
+        "status": "Pending"
+      }
+    ]
+  },
+  {
+    "id": "ml_188",
+    "address": "145 Francis St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://www.stjosephmemorylane.com/aerials/bfherrx.jpg",
+      "imageUrl": "/data/images/img_188.jpg",
+      "title": "Asset 188",
+      "caption": "Historic Image 90",
+      "estimatedYear": 1941
+    },
+    "civicData": {
+      "zoning": "C-2 Downtown Commercial",
+      "floodZone": "Zone X (Minimal Risk)",
+      "historicRegistry": "National Register",
+      "lotSizeSqFt": 7941,
+      "lastAssessmentValue": 231173
+    },
+    "permits": [
+      {
+        "date": "2020-08-27",
+        "type": "Facade Restoration",
+        "status": "Approved"
+      },
+      {
+        "date": "2017-04-13",
+        "type": "Plumbing Repair",
+        "status": "Pending"
+      },
+      {
+        "date": "2010-10-08",
+        "type": "Interior Demolition",
+        "status": "Approved"
+      },
+      {
+        "date": "2008-06-24",
+        "type": "Roof Replacement",
+        "status": "Closed"
+      }
+    ]
+  },
+  {
+    "id": "ml_189",
+    "address": "718 Frederick Ave, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://www.stjosephmemorylane.com/aerials/american1x.jpg",
+      "imageUrl": "/data/images/img_189.jpg",
+      "title": "Asset 189",
+      "caption": "Historic Image 91",
+      "estimatedYear": 1954
+    },
+    "civicData": {
+      "zoning": "C-2 Downtown Commercial",
+      "floodZone": "Zone AH (High Risk)",
+      "historicRegistry": "Local Landmark",
+      "lotSizeSqFt": 12220,
+      "lastAssessmentValue": 136283
+    },
+    "permits": [
+      {
+        "date": "2016-10-20",
+        "type": "Plumbing Repair",
+        "status": "Approved"
+      },
+      {
+        "date": "2006-01-24",
+        "type": "Plumbing Repair",
+        "status": "Approved"
+      },
+      {
+        "date": "2005-11-25",
+        "type": "HVAC Installation",
+        "status": "Approved"
+      },
+      {
+        "date": "2003-03-07",
+        "type": "Plumbing Repair",
+        "status": "Pending"
+      }
+    ]
+  },
+  {
+    "id": "ml_190",
+    "address": "470 Edmond St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://www.stjosephmemorylane.com/aerials/american2x.jpg",
+      "imageUrl": "/data/images/img_190.jpg",
+      "title": "Asset 190",
+      "caption": "Historic Image 92",
+      "estimatedYear": 1891
+    },
+    "civicData": {
+      "zoning": "R-1 Single Family",
+      "floodZone": "Zone AE (High Risk)",
+      "historicRegistry": "Local Landmark",
+      "lotSizeSqFt": 8573,
+      "lastAssessmentValue": 1241777
+    },
+    "permits": [
+      {
+        "date": "2010-10-05",
+        "type": "Plumbing Repair",
+        "status": "Approved"
+      },
+      {
+        "date": "1999-04-04",
+        "type": "Facade Restoration",
+        "status": "Approved"
+      }
+    ]
+  },
+  {
+    "id": "ml_191",
+    "address": "1353 Felix St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://www.stjosephmemorylane.com/aerials/sjgibridge3x.jpg",
+      "imageUrl": "/data/images/img_191.jpg",
+      "title": "Asset 191",
+      "caption": "Historic Image 93",
+      "estimatedYear": 1908
+    },
+    "civicData": {
+      "zoning": "R-2 Multi-Family",
+      "floodZone": "Zone AH (High Risk)",
+      "historicRegistry": "Not Listed",
+      "lotSizeSqFt": 14218,
+      "lastAssessmentValue": 1018054
+    },
+    "permits": [
+      {
+        "date": "2003-07-22",
+        "type": "Plumbing Repair",
+        "status": "Approved"
+      },
+      {
+        "date": "1995-02-05",
+        "type": "Facade Restoration",
+        "status": "Approved"
+      }
+    ]
+  },
+  {
+    "id": "ml_192",
+    "address": "723 Faraon St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://www.stjosephmemorylane.com/aerials/sjgibridge2x.jpg",
+      "imageUrl": "/data/images/img_192.jpg",
+      "title": "Asset 192",
+      "caption": "Historic Image 94",
+      "estimatedYear": 1934
+    },
+    "civicData": {
+      "zoning": "M-1 Light Industrial",
+      "floodZone": "Zone X (Minimal Risk)",
+      "historicRegistry": "National Register",
+      "lotSizeSqFt": 11317,
+      "lastAssessmentValue": 788884
+    },
+    "permits": [
+      {
+        "date": "2018-05-18",
+        "type": "Interior Demolition",
+        "status": "Pending"
+      },
+      {
+        "date": "2009-12-11",
+        "type": "Roof Replacement",
+        "status": "Approved"
+      },
+      {
+        "date": "2001-10-23",
+        "type": "Electrical Upgrade",
+        "status": "Approved"
+      }
+    ]
+  },
+  {
+    "id": "ml_193",
+    "address": "137 Frederick Ave, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://www.stjosephmemorylane.com/aerials/sjgibridgex.jpg",
+      "imageUrl": "/data/images/img_193.jpg",
+      "title": "Asset 193",
+      "caption": "Historic Image 95",
+      "estimatedYear": 1931
+    },
+    "civicData": {
+      "zoning": "C-2 Downtown Commercial",
+      "floodZone": "Zone X (Minimal Risk)",
+      "historicRegistry": "Local Landmark",
+      "lotSizeSqFt": 13695,
+      "lastAssessmentValue": 667920
+    },
+    "permits": [
+      {
+        "date": "1999-08-24",
+        "type": "Plumbing Repair",
+        "status": "Pending"
+      },
+      {
+        "date": "1996-08-10",
+        "type": "HVAC Installation",
+        "status": "Closed"
+      }
+    ]
+  },
+  {
+    "id": "ml_194",
+    "address": "211 Frederick Ave, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://www.stjosephmemorylane.com/aerials/cityhall3x.jpg",
+      "imageUrl": "/data/images/img_194.jpg",
+      "title": "Asset 194",
+      "caption": "Historic Image 96",
+      "estimatedYear": 1922
+    },
+    "civicData": {
+      "zoning": "R-1 Single Family",
+      "floodZone": "Zone AH (High Risk)",
+      "historicRegistry": "Local Landmark",
+      "lotSizeSqFt": 3318,
+      "lastAssessmentValue": 1225152
+    },
+    "permits": [
+      {
+        "date": "2010-11-27",
+        "type": "Electrical Upgrade",
+        "status": "Closed"
+      },
+      {
+        "date": "2003-02-10",
+        "type": "Roof Replacement",
+        "status": "Approved"
+      },
+      {
+        "date": "2001-06-02",
+        "type": "HVAC Installation",
+        "status": "Pending"
+      },
+      {
+        "date": "2000-06-02",
+        "type": "Plumbing Repair",
+        "status": "Approved"
+      }
+    ]
+  },
+  {
+    "id": "ml_195",
+    "address": "1133 Faraon St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://www.stjosephmemorylane.com/aerials/cityhall2x.jpg",
+      "imageUrl": "/data/images/img_195.jpg",
+      "title": "Asset 195",
+      "caption": "Historic Image 97",
+      "estimatedYear": 1958
+    },
+    "civicData": {
+      "zoning": "R-2 Multi-Family",
+      "floodZone": "Zone X (Minimal Risk)",
+      "historicRegistry": "Local Landmark",
+      "lotSizeSqFt": 11560,
+      "lastAssessmentValue": 616507
+    },
+    "permits": []
+  },
+  {
+    "id": "ml_196",
+    "address": "766 Edmond St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://www.stjosephmemorylane.com/aerials/cityhallx.jpg",
+      "imageUrl": "/data/images/img_196.jpg",
+      "title": "Asset 196",
+      "caption": "Historic Image 98",
+      "estimatedYear": 1949
+    },
+    "civicData": {
+      "zoning": "M-1 Light Industrial",
+      "floodZone": "Zone AH (High Risk)",
+      "historicRegistry": "National Register",
+      "lotSizeSqFt": 9501,
+      "lastAssessmentValue": 1398702
+    },
+    "permits": []
+  },
+  {
+    "id": "ml_197",
+    "address": "1323 Faraon St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://www.stjosephmemorylane.com/aerials/woofmfgx.jpg",
+      "imageUrl": "/data/images/img_197.jpg",
+      "title": "Asset 197",
+      "caption": "Historic Image 99",
+      "estimatedYear": 1918
+    },
+    "civicData": {
+      "zoning": "R-1 Single Family",
+      "floodZone": "Zone AE (High Risk)",
+      "historicRegistry": "Not Listed",
+      "lotSizeSqFt": 14907,
+      "lastAssessmentValue": 606763
+    },
+    "permits": [
+      {
+        "date": "2017-01-11",
+        "type": "Facade Restoration",
+        "status": "Approved"
+      },
+      {
+        "date": "2011-04-27",
+        "type": "Electrical Upgrade",
+        "status": "Approved"
+      }
+    ]
+  },
+  {
+    "id": "ml_198",
+    "address": "125 Frederick Ave, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://www.stjosephmemorylane.com/aerials/wirerope2x.jpg",
+      "imageUrl": "/data/images/img_198.jpg",
+      "title": "Asset 198",
+      "caption": "Historic Image 100",
+      "estimatedYear": 1954
+    },
+    "civicData": {
+      "zoning": "R-1 Single Family",
+      "floodZone": "Zone AH (High Risk)",
+      "historicRegistry": "National Register",
+      "lotSizeSqFt": 4996,
+      "lastAssessmentValue": 680012
+    },
+    "permits": [
+      {
+        "date": "2015-05-24",
+        "type": "Plumbing Repair",
+        "status": "Pending"
+      },
+      {
+        "date": "2013-08-06",
+        "type": "HVAC Installation",
+        "status": "Approved"
+      },
+      {
+        "date": "2002-05-11",
+        "type": "Interior Demolition",
+        "status": "Pending"
+      },
+      {
+        "date": "2002-02-04",
+        "type": "Facade Restoration",
+        "status": "Approved"
+      }
+    ]
+  },
+  {
+    "id": "ml_199",
+    "address": "616 Francis St, St. Joseph, MO 64501",
+    "historicalData": {
+      "originalUrl": "http://www.stjosephmemorylane.com/aerials/wirerope1x.jpg",
+      "imageUrl": "/data/images/img_199.jpg",
+      "title": "Asset 199",
+      "caption": "Historic Image 101",
+      "estimatedYear": 1938
+    },
+    "civicData": {
+      "zoning": "C-3 Commercial District",
+      "floodZone": "Zone X (Minimal Risk)",
+      "historicRegistry": "Eligible for Register",
+      "lotSizeSqFt": 14187,
+      "lastAssessmentValue": 1402817
+    },
+    "permits": [
+      {
+        "date": "2016-02-04",
+        "type": "Interior Demolition",
+        "status": "Approved"
+      },
+      {
+        "date": "2003-08-10",
+        "type": "HVAC Installation",
+        "status": "Approved"
+      },
+      {
+        "date": "2001-07-16",
+        "type": "Plumbing Repair",
+        "status": "Approved"
+      }
+    ]
+  }
+]
